@@ -45,7 +45,7 @@ doPackageInstall()
         input="$HOME/.config/INSTALLED_PKGS"
         while read -r line
         do
-             if ! [[ $line =~ "socklog"  || $line =~ "cronie" || $line =~ "wget" || $line =~ "git" || $line =~ "vim" ]]; then
+             if ! [[ $line =~ "socklog"  || $line =~ "cronie" || $line =~ "wget" || $line =~ "git" || $line =~ "neovim" ]]; then
                 sudo xbps-install -Sy $line
                 printf "\ninstalling " printf $line 
              fi
@@ -60,10 +60,10 @@ createDirectories()
 	mkdir $HOME/tmp
     fi
 
-    if [[ -d $HOME/sCrAtCh ]] ; then
-	printf "The directory $FG_ORANGE$HOME/sCrAtCh$RESET already exists. Skipping..."
+    if [[ -d $HOME/mYsTuFf ]] ; then
+	printf "The directory $FG_ORANGE$HOME/mYsTuFf$RESET already exists. Skipping..."
     else
-	mkdir $HOME/sCrAtCh
+	mkdir $HOME/mYsTuFf
     fi
 
     if [[ -d $HOME/void-packages ]] ; then
@@ -76,91 +76,6 @@ createDirectories()
 	./xbps-src binary-bootstrap
     fi
 }
-
-configureHomeEnvironment()
-{
-    if [[ -f $HOME/.bashrc ]] ; then
-        rm $HOME/.bashrc
-        printf "Deleted existing .bashrc\n\n"
-        ln -s $HOME/.config/BASHRC $HOME/.bashrc
-        printf "Created new symbolic link -> .bashrc\n\n"
-   
-    else
-        ln -s $HOME/.config/BASHRC $HOME/.bashrc
-        printf "Created new symbolic link -> .bashrc\n\n"
-    fi
-    
-    if [[ -f $HOME/.xinitrc ]] ; then
-        rm $HOME/.xinitrc
-        printf "Deleted existing .xinitrc\n\n"
-        ln -s $HOME/.config/XINITRC $HOME/.xinitrc
-        printf "Created new symbolic link -> .xinitrc\n\n"
- 
-    else
-        ln -s $HOME/.config/XINITRC $HOME/.xinitrc
-        printf "Created new symbolic link -> .xinitrc\n\n"
-    fi
-
-    if [[ -f $HOME/.Xresources ]] ; then
-        rm $HOME/.Xresources
-        printf "Deleted existing .Xresources\n\n"
-        ln -s $HOME/.config/XRESOURCES $HOME/.Xresources
-        printf "Created new symbolic link -> .Xresources\n\n"
-
-    else
-        ln -s $HOME/.config/XRESOURCES $HOME/.Xresources
-        printf "Created new symbolic link -> .Xresources\n\n"
-    fi
-
-    if [[ -f $HOME/.asoundrc ]] ; then
-        rm $HOME/.asoundrc
-        printf "Deleted existing .asoundrc\n\n"
-        ln -s $HOME/.config/AUDIO_CONFIG $HOME/.asoundrc
-        printf "Created new symbolic link -> .asoundrc\n\n"
-    
-    else
-        ln -s $HOME/.config/AUDIO_CONFIG $HOME/.asoundrc
-        printf "Created new symbolic link -> .asoundrc\n\n"
-    fi
-
-    if [[ -f $HOME/.vimrc ]] ; then
-        rm $HOME/.vimrc
-        printf "Deleted existing .vimrc\n\n"
-        ln -s $HOME/.config/VIM_RC $HOME/.vimrc
-        printf "Created new symbolic link -> .vimrc\n\n"
-    
-    else
-        ln -s $HOME/.config/VIM_RC $HOME/.vimrc
-        printf "Created new symbolic link -> .vimrc\n\n"
-    fi
-
-    if [[ -f $HOME/.bash_logout ]] ; then
-        rm $HOME/.bash_logout 
-        printf "Deleted existing .bash_logout \n\n"
-        ln -s $HOME/.config/BASH_LOGOUT $HOME/.bash_logout 
-        printf "Created new symbolic link -> .bash_logout \n\n"
-    
-    else
-        ln -s $HOME/.config/BASH_LOGOUT $HOME/.bash_logout 
-        printf "Created new symbolic link -> .bash_logout \n\n"
-    fi
-
-    if [[ -d /usr/share/X11/xorg.conf.d/ ]] ; then
-        printf "Setting up Irish keyboard locale\n"
-        sudo ln -s $HOME/.config/IRISH_XORG_LOCALE /usr/share/X11/xorg.conf.d/20-keyboard.conf
-    fi
-
-    sudo cp -v $HOME/.config/IRISH_XORG_LOCALE /usr/share/X11/xorg.conf.d/20-keyboard.conf
-
-#Configure the bare repo
-#    git init --bare $HOME/.cfg
-#    alias dots='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'                                          }
-#    dots config --local status.showUntrackedFiles no
-#    echo "alias dots='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/~.config/scripts/aliases 
-#}
-
-}
-
 
 sourceBashrc()
 { 
@@ -282,15 +197,7 @@ doGoLangInstall()
     wget -c https://golang.org/dl/go1.16.linux-amd64.tar.gz -4 -O - | sudo tar -xz -C /usr/local/
 }
 
-#configureBareRepo()
-#{
-#    git init --bare $HOME/.cfg
-#    alias dots='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
-#    dots config --local status.showUntrackedFiles no
-#    echo "alias dots='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/~.config/scripts/aliases
-#}
 
-#Call the functions above...
 getEssentials
 doSocklogConfig
 doCronieConfig
@@ -302,4 +209,4 @@ gitGlobalIDSetup
 sourceBashrc
 doGoLangInstall
 installOpenFrameworks
-#installSuckless
+
