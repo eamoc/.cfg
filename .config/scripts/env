@@ -1,0 +1,26 @@
+#Environment variables
+export EDITOR=vim
+export TERMINAL=xfce4-terminal
+export GIT_EDITOR=vim
+export GIT_AUTHOR_NAME='eamonn costello'
+export GIT_AUTHOR_EMAIL='eamonncostello@gmail.com'
+export LC_ALL=en_IE.UTF-8
+export CURRENT_BLOG=$HOME/blogs/myBlog/
+export VIM_PLUGINS=$HOME/.config/.vim/plugins.vim
+export VIM_PLUGIN_CONFIG=$HOME.config/.vim/plugin-config.vim
+export PICTURES_FOLDER=/media/d2/PHOTOS/
+export STARSHIP_CONFIG=$HOME/.config/starship.toml
+
+#OpenFrameWorks
+PG_OF_PATH=/home/eamoc/openFrameworks
+
+#Path Additions
+#Set PATH so it includes user's private bin if it exists
+if [ -d ~/bin ]; then
+    PATH=$HOME/bin:$PATH
+fi
+
+#Add golang to the path
+if [ -d /usr/local/go/bin ]; then
+    PATH=/usr/local/go/bin:$PATH
+fi

@@ -1,0 +1,124 @@
+# ls aliases
+alias ls='ls --color=auto'
+alias ll='ls -alFh'
+alias la='ls -A'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+#Git aliases
+alias git='hub'
+alias cst='cd $HOME/.config && git status' 									# Check git status of .config directory
+alias dst='cd $HOME/.dwm && git status' 									# Check status of .dwm directory
+alias gst='git status'
+alias gl='git pull'
+alias gp='git push'
+alias gd='git diff | nano'
+alias gcv='git commit -v'
+alias gca='git commit -v -a'
+alias gcm='git commit -m'
+alias gco='git checkout'
+alias gcb='git checkout -b'											# Checkout to a new branch
+alias grm='git rm'
+alias gb='git branch'
+alias gba='git branch -a'
+alias gpo='git push -u origin'
+alias gpom='git push -u origin main'
+alias grao='git remote add origin'
+alias gig='git status -s | grep '^??' | cut -c4- >> .gitignore' 						# Ignore any untracked files
+alias dots='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME' 						# Run git specifying the dotfiles repo and working directory
+alias gl1='git log --oneline'
+
+#dotfile config
+alias cfg='/usr/bin/git --git-dir=/home/eamoc/.cfg/ --work-tree=/home/eamoc'
+
+#clear Screen
+alias c='clear'
+
+#exit the terminal
+alias e='exit'
+
+#ranger
+alias r='ranger'
+#Shutdown and Reboot the machine
+alias sd='sudo shutdown -h now'
+alias rb='sudo reboot'
+
+#Moving up directories
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+#Install and remove
+alias _i='sudo xbps-install -Su'
+alias _r='sudo xbps-remove'
+
+#query local and remote packages
+alias _l='xbps-query -l | grep '
+alias _q='xbps-query -Rs'
+
+#Perform a full system upgrade
+alias _u='sudo xbps-install -Suv'
+
+#List manulally installed packages and pipe result to file
+alias _m='xbps-query -m | xargs -n1 xbps-uhelper getpkgname > ~/.config/INSTALLED_PKGS'
+
+#Update the mlocate database
+alias udb='sudo updatedb'
+alias h='history'
+alias hh='history | grep '
+alias l='locate'
+
+#source .bashrc
+alias src='. ~/.bashrc'
+
+#Open postinstall.sh in vim
+alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
+
+#Run postinstall.sh
+alias +pi='cd $HOME/.config/scripts && ./postinstall.sh'
+
+#Show the time on the command line
+alias t='date | awk "{print \$5}"'
+
+#Show scripts/ directory
+alias s='nvim $HOME/.config/scripts/'
+
+#open the pdfviewer
+alias pdf='pdfviewer'
+
+#edit this file
+alias £al='nvim ~/.config/scripts/aliases'
+
+#edit the 'env' file
+alias £en='nvim ~/.config/scripts/env'
+
+#edit starship config
+alias £ss='nvim ~/.config/starship.toml'
+
+#edit the xinitrc file
+alias £xi='nvim $HOME/.xinitrc'
+
+#Start hugo test server in draft mode for $CURRENT_BLOG
+alias +hgd='cd ~/blogResources/$CURRENT_BLOG && hugo server -D'
+alias +hg='cd ~/blogResources/$CURRENT_BLOG && hugo server'
+#alias +np= 'hugo new posts/'
+
+#speedtest
+alias spd='speedtest-cli'
+
+#vim shortcuts
+alias v='vim'
+alias £vr='vim $HOME/.vimrc'
+alias £vp='vim $HOME/.vim/plugins.vim'
+alias £pc='vim $HOME/.vim/plugin-config.vim'
+alias +vc='cd $HOME/sCrAtCh/codeProjects/ && vim'
+
+#gdb shortcuts
+alias +gdb='cd $HOME/sCrAtCh/codeProjects && gdb'
+
+#OpenFrameworks. Specify a directory name 
+alias %of='cd $HOME/sCrAtCh/OFProjects/'
+alias +of='cd $HOME/sCrAtCh/OFProjects/ &&  $HOME/.config/scripts/newOFProject.sh'
+alias %ofx='cd $HOME/openFrameworks/examples/'
