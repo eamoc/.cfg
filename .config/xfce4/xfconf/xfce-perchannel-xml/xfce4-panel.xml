@@ -15,6 +15,7 @@
         <value type="int" value="1"/>
         <value type="int" value="13"/>
         <value type="int" value="2"/>
+        <value type="int" value="7"/>
         <value type="int" value="3"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
@@ -65,6 +66,11 @@
     <property name="plugin-13" type="string" value="directorymenu">
       <property name="base-directory" type="string" value="/home/eamoc"/>
       <property name="hidden-files" type="bool" value="true"/>
+    </property>
+    <property name="plugin-7" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16819957141.desktop"/>
+      </property>
     </property>
   </property>
 </channel>
