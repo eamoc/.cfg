@@ -213,14 +213,14 @@ configureIrishLocale()
 }
 
 
-#getEssentials
-#socklogConfig
+getEssentials
+socklogConfig
 #cronieConfig
-#packageInstall
-#createDirectories
+packageInstall
+createDirectories
 #firewallConfig
 gitGlobalIDSetup
 #golangInstall
-#installOpenFrameworks
-#configureIrishLocale
-#sourceBashrc
+installOpenFrameworks
+configureIrishLocale
+sourceBashrc
