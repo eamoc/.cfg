@@ -37,10 +37,10 @@ getEssentials()
 	printf "\n\nInstalling the $FG_ORANGEHTTP based Download tool$RESET\n"
 	sudo xbps-install -Sy wget
 	printf "\n\nInstalling $FG_ORANGEVim Text Editor$RESET\n"
-	sudo xbps-install -Sy vim
+	sudo xbps-install -Sy neovim
 }
 
-doPackageInstall()
+packageInstall()
 {
         input="$HOME/.config/INSTALLED_PKGS"
         while read -r line
@@ -91,7 +91,7 @@ gitGlobalIDSetup()
     git config --global user.email "eamonncostello@gmail.com"
 }
 
-doFirewallConfig()
+firewallConfig()
 {
     #If the service already exists, disable it
     if [ -L /var/service/iptables ] ; then
@@ -128,7 +128,7 @@ doFirewallConfig()
     printf "Enabled the ip6tables service\n\n"
 }
 
-doSocklogConfig()
+socklogConfig()
 {
     printf "\n\nInstalling  the $FG_ORANGESocklog logger$RESET\n"
     sudo xbps-install -Sy socklog
@@ -164,7 +164,7 @@ doSocklogConfig()
     fi
 }
 
-doCronieConfig()
+cronieConfig()
 {
     printf "\n\nInstalling  the $FG_ORANGEcronie daemon to run specified commands$RESET\n"
     sudo xbps-install -Sy cronie
@@ -189,7 +189,7 @@ doCronieConfig()
     fi
 }
 
-doGoLangInstall()
+goLangInstall()
 {
     printf "\n\nDownloading and extracting $FG_ORANGEGoLang$RESET\n"
    # -4 means connect to ipv4 adresses only.
@@ -199,14 +199,14 @@ doGoLangInstall()
 
 
 getEssentials
-doSocklogConfig
-doCronieConfig
-doPackageInstall
+socklogConfig
+#cronieConfig
+packageInstall
 createDirectories
-configureHomeEnvironment
-doFirewallConfig
+#configureHomeEnvironment
+#firewallConfig
 gitGlobalIDSetup
-sourceBashrc
-doGoLangInstall
-installOpenFrameworks
+#sourceBashrc
+#goLangInstall
+#installOpenFrameworks
 
