@@ -24,6 +24,8 @@ gvfs-mtp
 gvfs-smb
 hub
 inetutils
+lightdm
+lightdm-gtk3-greeter
 lvm2
 lxdm
 mdadm

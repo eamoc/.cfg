@@ -13,28 +13,35 @@
       <property name="size" type="uint" value="32"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="13"/>
-        <value type="int" value="2"/>
         <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="23"/>
+        <value type="int" value="24"/>
         <value type="int" value="3"/>
+        <value type="int" value="2"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
         <value type="int" value="12"/>
+        <value type="int" value="13"/>
+        <value type="int" value="14"/>
       </property>
-      <property name="autohide-behavior" type="uint" value="0"/>
-      <property name="enter-opacity" type="uint" value="100"/>
-      <property name="leave-opacity" type="uint" value="100"/>
     </property>
   </property>
   <property name="plugins" type="empty">
     <property name="plugin-1" type="string" value="applicationsmenu">
       <property name="show-button-title" type="bool" value="false"/>
-      <property name="show-tooltips" type="bool" value="false"/>
       <property name="button-icon" type="string" value="avatar-default"/>
     </property>
     <property name="plugin-2" type="string" value="tasklist">
-      <property name="grouping" type="uint" value="1"/>
+      <property name="grouping" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-wireframes" type="bool" value="true"/>
+      <property name="window-scrolling" type="bool" value="false"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -49,27 +56,48 @@
       <property name="known-legacy-items" type="array">
         <value type="string" value="networking disabled"/>
         <value type="string" value="networkmanager applet"/>
-        <value type="string" value="ethernet network connection “wired connection 1” active"/>
       </property>
-      <property name="known-items" type="array">
-        <value type="string" value="vlc"/>
-        <value type="string" value="qBittorrent"/>
-      </property>
+    </property>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-12" type="string" value="clock">
-      <property name="mode" type="uint" value="2"/>
-      <property name="show-seconds" type="bool" value="false"/>
-      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
       <property name="digital-layout" type="uint" value="3"/>
-      <property name="digital-time-font" type="string" value="Inconsolata Nerd Font Bold 16"/>
+      <property name="digital-time-font" type="string" value="Hurmit Nerd Font Mono Bold 16"/>
     </property>
-    <property name="plugin-13" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/home/eamoc"/>
-      <property name="hidden-files" type="bool" value="true"/>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-7" type="string" value="launcher">
+    <property name="plugin-14" type="string" value="actions">
       <property name="items" type="array">
-        <value type="string" value="16819957141.desktop"/>
+        <value type="string" value="-lock-screen"/>
+        <value type="string" value="-switch-user"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+shutdown"/>
+        <value type="string" value="+restart"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="-logout"/>
+        <value type="string" value="+logout-dialog"/>
+      </property>
+      <property name="appearance" type="uint" value="0"/>
+    </property>
+    <property name="plugin-7" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/eamoc"/>
+    </property>
+    <property name="plugin-8" type="string" value="thunar-tpa"/>
+    <property name="plugin-23" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820188501.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-24" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820188592.desktop"/>
       </property>
     </property>
   </property>

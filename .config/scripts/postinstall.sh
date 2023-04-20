@@ -80,7 +80,7 @@ createDirectories()
 sourceBashrc()
 { 
     printf "Reloading .bashrc\n\n"
-    . $HOME/.bashrc
+    source $HOME/.bashrc
 }
 
 gitGlobalIDSetup()
@@ -214,13 +214,13 @@ configureIrishLocale()
 
 
 getEssentials
-socklogConfig
 #cronieConfig
 packageInstall
 createDirectories
 #firewallConfig
 gitGlobalIDSetup
+socklogConfig
 #golangInstall
-installOpenFrameworks
+#installOpenFrameworks
 configureIrishLocale
 sourceBashrc
