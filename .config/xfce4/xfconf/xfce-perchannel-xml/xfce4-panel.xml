@@ -27,7 +27,6 @@
         <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
-        <value type="int" value="9"/>
         <value type="int" value="10"/>
         <value type="int" value="14"/>
         <value type="int" value="12"/>
@@ -57,6 +56,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="networking disabled"/>
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>
       </property>
@@ -65,7 +65,6 @@
         <value type="string" value="qBittorrent"/>
       </property>
     </property>
-    <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-12" type="string" value="clock">
       <property name="mode" type="uint" value="2"/>

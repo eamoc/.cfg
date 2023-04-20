@@ -45,7 +45,7 @@ packageInstall()
         input="$HOME/.config/INSTALLED_PKGS"
         while read -r line
         do
-             if ! [[ $line =~ "socklog"  || $line =~ "cronie" || $line =~ "wget" || $line =~ "git" || $line =~ "neovim" ]]; then
+             if ! [[ $line =~ "socklog"  || $line =~ "socklog-void" || $line =~ "cronie" || $line =~ "wget" || $line =~ "git" || $line =~ "neovim" ]]; then
                 sudo xbps-install -Sy $line
                 printf "\ninstalling " printf $line 
              fi
@@ -130,9 +130,9 @@ firewallConfig()
 
 socklogConfig()
 {
-    printf "\n\nInstalling  the $FG_ORANGESocklog logger$RESET\n"
+    printf "\n\nInstalling the$FG_ORANGE Socklog logger$RESET\n"
     sudo xbps-install -Sy socklog
-    printf "\n\nInstalling $FG_ORANGEVoid Linux config for Socklog$RESET\n"
+    printf "\n\nInstalling $FG_ORANGE Void Linux config for Socklog$RESET\n"
     sudo xbps-install -Sy socklog-void
 
     #Add a log user for logging
@@ -189,7 +189,7 @@ cronieConfig()
     fi
 }
 
-goLangInstall()
+golangInstall()
 {
     printf "\n\nDownloading and extracting $FG_ORANGEGoLang$RESET\n"
    # -4 means connect to ipv4 adresses only.
@@ -197,16 +197,30 @@ goLangInstall()
     wget -c https://golang.org/dl/go1.16.linux-amd64.tar.gz -4 -O - | sudo tar -xz -C /usr/local/
 }
 
+configureIrishLocale()
+{
+	if [[ -f /usr/share/X11/xorg.conf.d/20-keyboard.conf ]] ; then
+		printf "\n"
+		sudo rm -fv /usr/share/X11/xorg.conf.d/20-keyboard.conf
+		printf "Deleted existing keyboard settings\n\n"
+		sudo cp -v $HOME/.config/IRISH_XORG_LOCALE /usr/share/X11/xorg.conf.d/20-keyboard.conf  
+ 	       	printf "Configured keyboard for Irish locale \n"
 
-getEssentials
-socklogConfig
+	else
+		sudo cp -v $HOME/.config/IRISH_XORG_LOCALE /usr/share/X11/xorg.conf.d/20-keyboard.conf  
+ 	       	printf "Configured keyboard for Irish locale \n"
+	fi
+}
+
+
+#getEssentials
+#socklogConfig
 #cronieConfig
-packageInstall
-createDirectories
-#configureHomeEnvironment
+#packageInstall
+#createDirectories
 #firewallConfig
 gitGlobalIDSetup
-#sourceBashrc
-#goLangInstall
+#golangInstall
 #installOpenFrameworks
-
+#configureIrishLocale
+#sourceBashrc
