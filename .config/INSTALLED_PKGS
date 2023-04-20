@@ -23,6 +23,7 @@ gvfs-afc
 gvfs-mtp
 gvfs-smb
 hub
+inetutils
 lvm2
 lxdm
 mdadm
@@ -34,7 +35,6 @@ network-manager-applet
 nodejs
 pipewire
 python
-python3-neovim
 python3-pip
 qbittorrent
 ranger
@@ -42,13 +42,14 @@ rawtherapee
 rhythmbox
 ripgrep
 setxkbmap
+socklog
+socklog-void
 sox
 starship
 terminus-font
-udisks2
-unzip
 vlc
 void-docs-browse
+wget
 wireplumber
 xauth
 xclip
