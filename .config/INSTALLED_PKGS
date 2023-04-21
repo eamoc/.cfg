@@ -59,5 +59,6 @@ xdg-desktop-portal
 xfce4
 xorg-input-drivers
 xorg-minimal
+xorg-server-xephyr
 xorg-video-drivers
 xscreensaver

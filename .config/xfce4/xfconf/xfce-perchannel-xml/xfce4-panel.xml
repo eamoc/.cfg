@@ -7,27 +7,40 @@
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=0;y=0"/>
-      <property name="length" type="uint" value="100"/>
+      <property name="length" type="double" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="0"/>
-      <property name="size" type="uint" value="32"/>
+      <property name="size" type="uint" value="36"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
+        <value type="int" value="15"/>
         <value type="int" value="7"/>
         <value type="int" value="8"/>
+        <value type="int" value="34"/>
         <value type="int" value="23"/>
         <value type="int" value="24"/>
+        <value type="int" value="9"/>
+        <value type="int" value="28"/>
+        <value type="int" value="29"/>
+        <value type="int" value="35"/>
         <value type="int" value="3"/>
         <value type="int" value="2"/>
         <value type="int" value="4"/>
         <value type="int" value="5"/>
         <value type="int" value="6"/>
+        <value type="int" value="26"/>
+        <value type="int" value="16"/>
         <value type="int" value="10"/>
         <value type="int" value="11"/>
-        <value type="int" value="12"/>
         <value type="int" value="13"/>
+        <value type="int" value="18"/>
+        <value type="int" value="20"/>
+        <value type="int" value="21"/>
+        <value type="int" value="12"/>
         <value type="int" value="14"/>
       </property>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="mode" type="uint" value="0"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -57,6 +70,9 @@
         <value type="string" value="networking disabled"/>
         <value type="string" value="networkmanager applet"/>
       </property>
+      <property name="known-items" type="array">
+        <value type="string" value="qBittorrent"/>
+      </property>
     </property>
     <property name="plugin-10" type="string" value="notification-plugin"/>
     <property name="plugin-11" type="string" value="separator">
@@ -65,6 +81,7 @@
     <property name="plugin-12" type="string" value="clock">
       <property name="digital-layout" type="uint" value="3"/>
       <property name="digital-time-font" type="string" value="Hurmit Nerd Font Mono Bold 16"/>
+      <property name="mode" type="uint" value="2"/>
     </property>
     <property name="plugin-13" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
@@ -85,9 +102,11 @@
         <value type="string" value="+logout-dialog"/>
       </property>
       <property name="appearance" type="uint" value="0"/>
+      <property name="ask-confirmation" type="bool" value="false"/>
     </property>
     <property name="plugin-7" type="string" value="directorymenu">
       <property name="base-directory" type="string" value="/home/eamoc"/>
+      <property name="hidden-files" type="bool" value="true"/>
     </property>
     <property name="plugin-8" type="string" value="thunar-tpa"/>
     <property name="plugin-23" type="string" value="launcher">
@@ -98,6 +117,39 @@
     <property name="plugin-24" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16820188592.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-9" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820664961.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820684802.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="alsa"/>
+    <property name="plugin-18" type="string" value="cpugraph"/>
+    <property name="plugin-20" type="string" value="diskperf"/>
+    <property name="plugin-21" type="string" value="fsguard"/>
+    <property name="plugin-26" type="string" value="netload"/>
+    <property name="plugin-28" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820721721.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-29" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820721842.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-34" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-35" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16820723533.desktop"/>
       </property>
     </property>
   </property>
