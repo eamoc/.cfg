@@ -17,8 +17,6 @@
         <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="19"/>
-        <value type="int" value="34"/>
-        <value type="int" value="27"/>
         <value type="int" value="3"/>
         <value type="int" value="23"/>
         <value type="int" value="24"/>
@@ -28,6 +26,10 @@
         <value type="int" value="35"/>
         <value type="int" value="22"/>
         <value type="int" value="2"/>
+        <value type="int" value="11"/>
+        <value type="int" value="25"/>
+        <value type="int" value="17"/>
+        <value type="int" value="5"/>
         <value type="int" value="4"/>
         <value type="int" value="6"/>
         <value type="int" value="26"/>
@@ -52,10 +54,11 @@
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="bool" value="false"/>
       <property name="show-labels" type="bool" value="false"/>
-      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="flat-buttons" type="bool" value="true"/>
       <property name="show-handle" type="bool" value="false"/>
       <property name="show-wireframes" type="bool" value="true"/>
       <property name="window-scrolling" type="bool" value="false"/>
+      <property name="sort-order" type="uint" value="0"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
@@ -139,9 +142,6 @@
         <value type="string" value="16820721842.desktop"/>
       </property>
     </property>
-    <property name="plugin-34" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-35" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16820723533.desktop"/>
@@ -154,8 +154,16 @@
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-27" type="string" value="separator">
-      <property name="expand" type="bool" value="false"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-25" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
   </property>

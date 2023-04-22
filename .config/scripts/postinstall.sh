@@ -145,22 +145,22 @@ socklogConfig()
 
     if [[ -h /var/service/socklog-unix ]] ; then
         sudo rm /var/service/socklog-unix
-        printf "Deleted existing symlink for socklog-unix\n\n"
+        printf "Disabled the $BG_ORANGE$FG_BLACK socklog-unix service$RESET$RESET\n\n"
         sudo ln -s /etc/sv/socklog-unix /var/service 
-        printf "Created new symbolic link -> /var/service/socklog-unix"
+        printf "Ensabled the $BG_ORANGE$FG_BLACK socklog-unix service$RESET$RESET\n\n"
     else
         sudo ln -s /etc/sv/socklog-unix /var/service
-        printf "Created new symbolic link -> /var/service/socklog-unix"
+        printf "Enabled the $BG_ORANGE$FG_BLACK socklog-unix service$RESET$RESET\n\n"
     fi
 
     if [[ -h /var/service/nanoklogd ]] ; then
         sudo rm /var/service/nanoklogd
-        printf "Deleted existing symlink for nanoklogd\n\n"
+        printf "Disabled the $BG_ORANGE$FG_BLACK nanoklogd service$RESET$RESET\n\n"
         sudo ln -s /etc/sv/nanoklogd /var/service 
-        printf "Created new symbolic link -> /var/service/nanoklogd"
+        printf "Enabled the $BG_ORANGE$FG_BLACK nanoklogd service$RESET$RESET\n\n"
     else
         sudo ln -s /etc/sv/nanoklogd /var/service
-        printf "Created new symbolic link -> /var/service/nanoklogd"
+        printf "Enabled the $BG_ORANGE$FG_BLACK nanoklogd service$RESET$RESET\n\n"
     fi
 }
 
@@ -213,10 +213,36 @@ configureIrishLocale()
 }
 
 
+dbusServiceConfig()
+{
+	if [[ -h /var/service/dbus ]] ; then
+        sudo rm /var/service/dbus
+        printf "Deleted existing symlink for d-bus\n\n"
+        sudo ln -s /etc/sv/dbus /var/service 
+        printf "Created new symbolic link -> /var/service/dbus"
+    else
+        sudo ln -s /etc/sv/dbus /var/service
+        printf "Created new symbolic link -> /var/service/dbus"
+    fi
+
+}
+
+lightdmConfig()
+{
+# Create a new autogin service
+	sudo cp -R /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
+	 GETTY_ARGS="--autologin yourusernamehere --noclear"
+ BAUD_RATE=38400
+ TERM_NAME=linux
+
+}
+
+
 getEssentials
 #cronieConfig
 packageInstall
 createDirectories
+dbusServiceConfig
 #firewallConfig
 gitGlobalIDSetup
 socklogConfig

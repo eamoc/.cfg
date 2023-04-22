@@ -11,6 +11,7 @@ curl
 d-feet
 d-spy
 dejavu-fonts-ttf
+dhex
 fd
 feh
 firefox
@@ -24,8 +25,10 @@ grub-x86_64-efi
 gvfs-afc
 gvfs-mtp
 gvfs-smb
+hex
 hub
 inetutils
+iucode-tool
 lightdm
 lightdm-gtk3-greeter
 lvm2
@@ -39,6 +42,7 @@ nerd-fonts
 nethogs
 network-manager-applet
 nodejs
+numactl
 pipewire
 python
 python3-pip
