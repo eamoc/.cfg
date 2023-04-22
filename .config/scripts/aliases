@@ -56,7 +56,7 @@ alias gl1='git log --oneline'
 alias cfg='/usr/bin/git --git-dir=/home/eamoc/.cfg/ --work-tree=/home/eamoc'
 alias cst='cfg status'
 alias cca='cfg commit -v -a'
-alias cp='cfg push'
+alias cfgp='cfg push'
 
 
 

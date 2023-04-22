@@ -13,17 +13,15 @@
       <property name="size" type="uint" value="32"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
-        <value type="int" value="15"/>
+        <value type="int" value="27"/>
         <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="19"/>
         <value type="int" value="3"/>
         <value type="int" value="23"/>
         <value type="int" value="24"/>
-        <value type="int" value="9"/>
         <value type="int" value="28"/>
         <value type="int" value="29"/>
-        <value type="int" value="35"/>
         <value type="int" value="22"/>
         <value type="int" value="2"/>
         <value type="int" value="11"/>
@@ -117,36 +115,11 @@
         <value type="string" value="16820188592.desktop"/>
       </property>
     </property>
-    <property name="plugin-9" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16820664961.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-15" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16820684802.desktop"/>
-      </property>
-    </property>
     <property name="plugin-16" type="string" value="alsa"/>
     <property name="plugin-18" type="string" value="cpugraph"/>
     <property name="plugin-20" type="string" value="diskperf"/>
     <property name="plugin-21" type="string" value="fsguard"/>
     <property name="plugin-26" type="string" value="netload"/>
-    <property name="plugin-28" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16820721721.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-29" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16820721842.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-35" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16820723533.desktop"/>
-      </property>
-    </property>
     <property name="plugin-19" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
@@ -165,6 +138,21 @@
     </property>
     <property name="plugin-25" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-27" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16821819611.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-28" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16821824124.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-29" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16821828625.desktop"/>
+      </property>
     </property>
   </property>
 </channel>

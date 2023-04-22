@@ -229,7 +229,7 @@ dbus_SvConfig()
 
 lightdm_SvConfig()
 {
-	if [[ -f /etc/sv/agetty-tty1 ]] ; then
+	if [[ -d /etc/sv/agetty-tty1 ]] ; then
 		sudo mv -v /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
 		sudo cp -v $HOME/.config/AGETTY_AUTOLOGIN_CONF /etc/sv/agetty-autologin-tty1/conf
 
@@ -256,15 +256,16 @@ lightdm_SvConfig()
 }
 
 
-getEssentials
-cronie_SvConfig
-packageInstall
-createDirectories
-dbus_SvConfig
-firewallConfig
-gitGlobalIDSetup
-socklogConfig
+#getEssentials
+#cronie_SvConfig
+#packageInstall
+#createDirectories
+lightdm_SvConfig
+#dbus_SvConfig
+#firewallConfig
+#socklogConfig
+#gitGlobalIDSetup
 #golangInstall
 #installOpenFrameworks
-configureIrishLocale
+#configureIrishLocale
 sourceBashrc
