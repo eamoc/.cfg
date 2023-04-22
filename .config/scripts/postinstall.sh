@@ -71,7 +71,7 @@ createDirectories()
     else
 	printf "Setting up the source packages Tree...."
 	cd $HOME 
-	git clone git://github.com/eamoc/void-packages.git
+	git clone http://github.com/eamoc/void-packages.git
 	cd void-packages
 	./xbps-src binary-bootstrap
     fi
@@ -164,7 +164,7 @@ socklogConfig()
     fi
 }
 
-cronieConfig()
+cronie_SvConfig()
 {
     printf "\n\nInstalling  the $FG_ORANGEcronie daemon to run specified commands$RESET\n"
     sudo xbps-install -Sy cronie
@@ -172,16 +172,16 @@ cronieConfig()
    
     if [[ -h /var/service/cronie ]] ; then
         sudo rm /var/service/cronie
-        printf "Deleted existing symlink for cronie\n"
+        printf "Disabled the $BG_ORANGE$FG_BLACK cronie service$RESET$RESET\n\n"
         sudo ln -s /etc/sv/cronie /var/service 
-        printf "Created new symbolic link -> /var/service/cronie\n"
+        printf "Enabled the $BG_ORANGE$FG_BLACK cronie service$RESET$RESET\n\n"
 
         #Set up the crontab
         printf "importing crontab from file"
         crontab $HOME/.config/CRONTAB
     else
         sudo ln -s /etc/sv/cronie /var/service
-        printf "Created new symbolic link -> /var/service/cronie\n"
+        printf "Enabled the $BG_ORANGE$FG_BLACK cronie service$RESET$RESET\n\n"
         
         #Set up the crontab
         printf "importing crontab from file\n"
@@ -213,37 +213,55 @@ configureIrishLocale()
 }
 
 
-dbusServiceConfig()
+dbus_SvConfig()
 {
 	if [[ -h /var/service/dbus ]] ; then
-        sudo rm /var/service/dbus
-        printf "Deleted existing symlink for d-bus\n\n"
-        sudo ln -s /etc/sv/dbus /var/service 
-        printf "Created new symbolic link -> /var/service/dbus"
-    else
-        sudo ln -s /etc/sv/dbus /var/service
-        printf "Created new symbolic link -> /var/service/dbus"
-    fi
+		sudo rm /var/service/dbus
+		printf "Disabled the $BG_ORANGE$FG_BLACK d-bus service$RESET$RESET\n\n"
+		sudo ln -s /etc/sv/dbus /var/service
+		printf "Enabled the $BG_ORANGE$FG_BLACK d-bus service$RESET$RESET\n\n"
+	else
+		sudo ln -s /etc/sv/dbus /var/service
+		printf "Enabled the $BG_ORANGE$FG_BLACK d-bus service$RESET$RESET\n\n"
+    	fi
 
 }
 
-lightdmConfig()
+lightdm_SvConfig()
 {
-# Create a new autogin service
-	sudo cp -R /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
-	 GETTY_ARGS="--autologin yourusernamehere --noclear"
- BAUD_RATE=38400
- TERM_NAME=linux
+	if [[ -f /etc/sv/agetty-tty1 ]] ; then
+		sudo mv -v /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
+		sudo cp -v $HOME/.config/AGETTY_AUTOLOGIN_CONF /etc/sv/agetty-autologin-tty1/conf
+
+		printf "Created the autologin terminal on tty1 \n\n"
+	fi
+
+	if [[ -h /var/service/lightdm ]] ; then
+		sudo rm /var/service/lightdm
+		printf "Disabled the $BG_ORANGE$FG_BLACK lightdm service$RESET$RESET\n\n"
+		sudo cp -v $HOME/.config/LIGHTDM_CONF /etc/lightdm/lightdm.conf
+		sudo cp -v $HOME/.config/LIGHTDM_GTK_GREETER_CONF /etc/lightdm/lightdm_gtk_greeter.conf
+
+		sudo ln -s /etc/sv/lightdm /var/service
+		printf "Enabled the $BG_ORANGE$FG_BLACK lightdm service$RESET$RESET\n\n"
+	else
+		sudo ln -s /etc/sv/lightdm /var/service
+		sudo cp -v $HOME/.config/LIGHTDM_CONF /etc/lightdm/lightdm.conf
+		sudo cp -v $HOME/.config/LIGHTDM_GTK_GREETER_CONF /etc/lightdm/lightdm_gtk_greeter.conf
+		printf "Enabled the $BG_ORANGE$FG_BLACK d-bus service$RESET$RESET\n\n"
+    	fi
+
+
 
 }
 
 
 getEssentials
-#cronieConfig
+cronie_SvConfig
 packageInstall
 createDirectories
-dbusServiceConfig
-#firewallConfig
+dbus_SvConfig
+firewallConfig
 gitGlobalIDSetup
 socklogConfig
 #golangInstall

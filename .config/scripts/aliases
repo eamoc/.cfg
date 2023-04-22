@@ -32,8 +32,6 @@ alias e='exit'
 
 #Git aliases
 alias git='hub'
-alias cst='cd $HOME/.config && git status' 									# Check git status of .config directory
-alias dst='cd $HOME/.dwm && git status' 									# Check status of .dwm directory
 alias gst='git status'
 alias gl='git pull'
 alias gp='git push'
@@ -56,15 +54,46 @@ alias gl1='git log --oneline'
 
 #dotfile config
 alias cfg='/usr/bin/git --git-dir=/home/eamoc/.cfg/ --work-tree=/home/eamoc'
-alias cfg_st='cfg status'
-alias cfg_ca='cfg commit -a'
-alias cfg_p='cfg push'
+alias cst='cfg status'
+alias cca='cfg commit -v -a'
+alias cp='cfg push'
 
 
 
+#Show scripts/ directory
+alias s='nvim $HOME/.config/scripts/'
+
+#Open postinstall.sh in vim
+alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
+
+#Run postinstall.sh
+alias +pi='cd $HOME/.config/scripts && ./postinstall.sh'
+
+#edit this file
+alias £al='nvim ~/.config/scripts/aliases'
+
+#edit the 'bash env' file
+alias £en='nvim ~/.config/scripts/env'
+
+#edit the 'bash config' file
+alias £cf='nvim ~/.config/scripts/config'
+
+#edit starship config
+alias £ss='nvim ~/.config/starship.toml'
+
+#edit the xinitrc file
+alias £xi='nvim $HOME/.xinitrc'
+
+#check status of all services
+alias svst='sudo sv status /var/service/*' 
+
+
+#open the pdfviewer
+alias pdf='pdfviewer'
 
 #ranger
 alias r='ranger'
+
 #Shutdown and Reboot the machine
 alias po='sudo poweroff'
 alias rb='sudo reboot'
@@ -89,9 +118,9 @@ alias _m='xbps-query -m | xargs -n1 xbps-uhelper getpkgname > ~/.config/INSTALLE
 
 
 #Update the mlocate database
-alias udb='sudo updatedb'
+alias udb='sudo updatedb -v'
 alias h='history'
-alias hh='history | grep '
+#alias hh='history | grep '
 alias l='locate'
 
 
@@ -99,31 +128,7 @@ alias l='locate'
 alias src='. ~/.bashrc'
 
 
-#Show scripts/ directory
-alias s='nvim $HOME/.config/scripts/'
 
-#Open postinstall.sh in vim
-alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
-
-#Run postinstall.sh
-alias +pi='cd $HOME/.config/scripts && ./postinstall.sh'
-
-
-
-#open the pdfviewer
-alias pdf='pdfviewer'
-
-#edit this file
-alias £al='nvim ~/.config/scripts/aliases'
-
-#edit the 'env' file
-alias £en='nvim ~/.config/scripts/env'
-
-#edit starship config
-alias £ss='nvim ~/.config/starship.toml'
-
-#edit the xinitrc file
-alias £xi='nvim $HOME/.xinitrc'
 
 #Start hugo test server in draft mode for $CURRENT_BLOG
 alias +hgd='cd ~/blogResources/$CURRENT_BLOG && hugo server -D'
