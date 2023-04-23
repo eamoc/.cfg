@@ -1,7 +1,7 @@
 #Environment variables
-export EDITOR=vim
+export EDITOR=nvim
 export TERMINAL=xfce4-terminal
-export GIT_EDITOR=vim
+export GIT_EDITOR=nvim
 export GIT_AUTHOR_NAME='eamonn costello'
 export GIT_AUTHOR_EMAIL='eamonncostello@gmail.com'
 export LC_ALL=en_IE.UTF-8
