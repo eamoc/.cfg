@@ -88,4 +88,74 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519.pub" added="2023-04-23T14:21:37.992064Z" modified="2023-04-23T14:21:38.520888Z" visited="2023-04-23T14:21:37.992068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:21:38.520874Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519" added="2023-04-23T14:21:45.355985Z" modified="2023-04-23T14:21:45.840388Z" visited="2023-04-23T14:21:45.355989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:21:45.840380Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/known_hosts" added="2023-04-23T14:21:52.702116Z" modified="2023-04-23T14:21:52.702158Z" visited="2023-04-23T14:21:52.702120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:21:52.702133Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts.old" added="2023-04-23T14:22:16.177332Z" modified="2023-04-23T14:22:16.685924Z" visited="2023-04-23T14:22:16.177334Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:22:16.685896Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-23T14:22:30.158240Z" visited="2023-04-23T14:22:29.678980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:22:30.158201Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/VID-20220324-WA0004.mp4" added="2023-04-23T14:25:58.194822Z" modified="2023-04-23T14:25:58.194833Z" visited="2023-04-23T14:25:58.194825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:25:58.194828Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Place_names_of_south_Leitrim_and_north_R.pdf" added="2023-04-24T15:44:58.815432Z" modified="2023-04-24T15:44:58.815439Z" visited="2023-04-24T15:44:58.815434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-24T15:44:58.815436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
