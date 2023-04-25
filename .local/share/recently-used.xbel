@@ -88,22 +88,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/id_ed25519.pub" added="2023-04-23T14:21:37.992064Z" modified="2023-04-23T14:21:38.520888Z" visited="2023-04-23T14:21:37.992068Z">
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519.pub" added="2023-04-23T14:21:37.992064Z" modified="2023-04-25T15:57:55.944119Z" visited="2023-04-23T14:21:37.992068Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.ms-publisher"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:21:38.520874Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:57:55.944115Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/id_ed25519" added="2023-04-23T14:21:45.355985Z" modified="2023-04-23T14:21:45.840388Z" visited="2023-04-23T14:21:45.355989Z">
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519" added="2023-04-23T14:21:45.355985Z" modified="2023-04-25T15:58:02.605904Z" visited="2023-04-23T14:21:45.355989Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:21:45.840380Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:02.605896Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -118,22 +118,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/known_hosts.old" added="2023-04-23T14:22:16.177332Z" modified="2023-04-23T14:22:16.685924Z" visited="2023-04-23T14:22:16.177334Z">
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts.old" added="2023-04-23T14:22:16.177332Z" modified="2023-04-25T15:58:13.830768Z" visited="2023-04-23T14:22:16.177334Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-trash"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:22:16.685896Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:13.830762Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-23T14:22:30.158240Z" visited="2023-04-23T14:22:29.678980Z">
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-25T15:58:20.201063Z" visited="2023-04-23T14:22:29.678980Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-23T14:22:30.158201Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:20.201055Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -154,6 +154,136 @@
         <mime:mime-type type="application/pdf"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-24T15:44:58.815436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES" added="2023-04-25T16:00:39.419629Z" modified="2023-04-25T16:00:39.419641Z" visited="2023-04-25T16:00:39.419631Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:00:39.419635Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc" added="2023-04-25T16:01:55.957831Z" modified="2023-04-25T16:01:55.957838Z" visited="2023-04-25T16:01:55.957832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:01:55.957835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-25T16:01:58.154553Z" visited="2023-04-25T16:01:58.154543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:01:58.154547Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/100%20Breathtaking%204K%20Nature%20Wallpapers%20Ultra%20HD%203840x2160%20Set%201" added="2023-04-25T16:02:43.427299Z" modified="2023-04-25T16:02:58.347592Z" visited="2023-04-25T16:02:43.427300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:02:58.347587Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/1000%20Ultra%20HD%204K%20Most%20Impressive%20Landscapes%20Wallpapers%20%5Bnico1899%5D" added="2023-04-25T16:02:46.355510Z" modified="2023-04-25T16:03:47.243129Z" visited="2023-04-25T16:02:46.355511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:03:47.243127Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/1000%20Ultra%20HD%204K%20Most%20Impressive%20Landscapes%20Wallpapers%20%5Bnico1899%5D/Wallpapers" added="2023-04-25T16:02:47.524015Z" modified="2023-04-25T16:03:48.131053Z" visited="2023-04-25T16:02:47.524017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:03:48.131050Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/wallpaper" added="2023-04-25T16:04:19.973035Z" modified="2023-04-25T16:04:19.973039Z" visited="2023-04-25T16:04:19.973036Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:19.973037Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2023-04-25T16:04:27.208573Z" modified="2023-04-25T16:04:27.208577Z" visited="2023-04-25T16:04:27.208574Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:27.208575Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-04-25T16:04:28.310917Z" modified="2023-04-25T16:04:28.310928Z" visited="2023-04-25T16:04:28.310918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:28.310923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr" added="2023-04-25T16:04:30.091995Z" modified="2023-04-25T16:04:30.092006Z" visited="2023-04-25T16:04:30.091996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:30.092001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share" added="2023-04-25T16:04:31.821813Z" modified="2023-04-25T16:04:31.821825Z" visited="2023-04-25T16:04:31.821815Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:31.821820Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds" added="2023-04-25T16:04:34.287253Z" modified="2023-04-25T16:04:34.287265Z" visited="2023-04-25T16:04:34.287255Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:34.287259Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/xfce" added="2023-04-25T16:04:35.413290Z" modified="2023-04-25T16:04:35.413302Z" visited="2023-04-25T16:04:35.413291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:35.413296Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
