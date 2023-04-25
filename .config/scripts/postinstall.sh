@@ -61,6 +61,8 @@ xfce4Install()
 			printf "\ninstalling $line"
            	fi
         done < "$input"
+
+	sudo cp -rv $HOME/.config/xdg /etc/
 }
 
 createDirectories()
@@ -261,18 +263,17 @@ lightdm_SvConfig()
 
 }
 
-#getEssentials
-#cronie_SvConfig
-#packageInstall
-xfce4Install
-#createDirectories
-#lightdm_SvConfig
+getEssentials
+cronie_SvConfig
+packageInstall
+#reateDirectories
 #dbus_SvConfig
-#firewallConfig
-#socklogConfig
-#gitGlobalIDSetup
+firewallConfig
+socklogConfig
+gitGlobalIDSetup
 #golangInstall
 #installOpenFrameworks
-#configureIrishLocale
+configureIrishLocale
+#xfce4Install
+#ightdm_SvConfig
 #sourceBashrc
-#installXfce4DE

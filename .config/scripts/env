@@ -11,16 +11,13 @@ export VIM_PLUGIN_CONFIG=$HOME.config/.vim/plugin-config.vim
 export PICTURES_FOLDER=/media/d2/PHOTOS/
 export STARSHIP_CONFIG=$HOME/.config/starship.toml
 
-#OpenFrameWorks
-PG_OF_PATH=/home/eamoc/openFrameworks
+# XDG Base Directory Specification
+#export XDG_DATA_HOME=$HOME/.local/share
+#export XDG_CONFIG_HOME=$HOME/.config
+#export XDG_STATE_HOME=$HOME/.local/state
+#export XDG_DATA_DIRS=/usr/local/share/:/usr/share/
+#export XDG_CONFIG_DIRS=/etc/xdg
+#export XDG_CACHE_HOME=$HOME/.cache
 
-#Path Additions
-#Set PATH so it includes user's private bin if it exists
-if [ -d ~/bin ]; then
-    PATH=$HOME/bin:$PATH
-fi
 
-#Add golang to the path
-if [ -d /usr/local/go/bin ]; then
-    PATH=/usr/local/go/bin:$PATH
-fi
+
