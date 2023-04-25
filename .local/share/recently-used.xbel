@@ -128,12 +128,13 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-25T15:58:20.201063Z" visited="2023-04-23T14:22:29.678980Z">
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-25T16:18:47.587653Z" visited="2023-04-23T14:22:29.678980Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:20.201055Z" count="4"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:18:47.587651Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -178,12 +179,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-25T16:01:58.154553Z" visited="2023-04-25T16:01:58.154543Z">
+  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-25T16:25:15.533976Z" visited="2023-04-25T16:01:58.154543Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:01:58.154547Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:25:15.533970Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -284,6 +285,16 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:35.413296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.ssh" added="2023-04-25T16:25:05.126536Z" modified="2023-04-25T16:25:05.126545Z" visited="2023-04-25T16:25:05.126537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:25:05.126541Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
