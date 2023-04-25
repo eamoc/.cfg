@@ -243,6 +243,8 @@ dbus_SvConfig()
 lightdm_SvConfig()
 {
 	if [[ -d /etc/sv/agetty-tty1 ]] ; then
+		sudo mv -v /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
+		sudo cp -v $HOME/.config/AGETTY_AUTOLOGIN_CONF /etc/sv/agetty-autologin-tty1/conf 
 		printf "Created the autologin terminal on tty1 \n\n"
 	fi
 
@@ -263,17 +265,23 @@ lightdm_SvConfig()
 
 }
 
+dconfConfig()
+{
+	cp -v $HOME/.conf/DCONF_USER $HOME/dconf/user
+}
+
 getEssentials
-cronie_SvConfig
 packageInstall
-#reateDirectories
-#dbus_SvConfig
+createDirectories
 firewallConfig
+cronie_SvConfig
 socklogConfig
 gitGlobalIDSetup
 #golangInstall
 #installOpenFrameworks
 configureIrishLocale
-#xfce4Install
-#ightdm_SvConfig
-#sourceBashrc
+xfce4Install
+dconfConfig
+lightdm_SvConfig
+sourceBashrc
+#dbus_SvConfig
