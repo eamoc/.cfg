@@ -29,6 +29,9 @@ alias c='clear'
 #exit the terminal
 alias e='exit'
 
+#source .bashrc
+alias s='. ~/.bashrc'
+
 
 #Git aliases
 alias git='hub'
@@ -61,7 +64,7 @@ alias cfgp='cfg push'
 
 
 #Show scripts/ directory
-alias s='nvim $HOME/.config/scripts/'
+alias £s='nvim $HOME/.config/scripts/'
 
 #Open postinstall.sh in vim
 alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
@@ -89,7 +92,7 @@ alias svst='sudo sv status /var/service/*'
 
 
 #open the pdfviewer
-alias pdf='pdfviewer'
+alias pdf='qpdfview'
 
 #ranger
 alias r='ranger'
@@ -106,7 +109,7 @@ alias _r='sudo xbps-remove'
 
 #query local and remote packages
 alias _l='xbps-query -l | grep '
-alias _q='xbps-query -Rs'
+alias _q='xbps-query --regex -Rs'
 
 
 #Perform a full system upgrade
@@ -124,12 +127,6 @@ alias h='history'
 alias l='locate'
 
 
-#source .bashrc
-alias src='. ~/.bashrc'
-
-
-
-
 #Start hugo test server in draft mode for $CURRENT_BLOG
 alias +hgd='cd ~/blogResources/$CURRENT_BLOG && hugo server -D'
 alias +hg='cd ~/blogResources/$CURRENT_BLOG && hugo server'
@@ -139,11 +136,11 @@ alias +hg='cd ~/blogResources/$CURRENT_BLOG && hugo server'
 alias spd='speedtest-cli'
 
 #vim shortcuts
-alias v='vim'
-alias £vr='vim $HOME/.vimrc'
-alias £vp='vim $HOME/.vim/plugins.vim'
-alias £pc='vim $HOME/.vim/plugin-config.vim'
-alias +vc='cd $HOME/sCrAtCh/codeProjects/ && vim'
+alias v='nvim'
+alias £vr='v $HOME/.config/nvim/init.vim'
+alias £vp='v $HOME/.config/nvim/plugins.vim'
+alias £pc='v $HOME/.config/nvim/plugin-config.vim'
+alias +vc='cd $HOME/mYsTuFf/codeProjects/ && nvim'
 
 #gdb shortcuts
 alias +gdb='cd $HOME/sCrAtCh/codeProjects && gdb'

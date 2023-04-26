@@ -3,12 +3,12 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/eamoc/.config" added="2023-04-22T15:59:15.654522Z" modified="2023-04-22T16:42:24.182614Z" visited="2023-04-22T15:59:15.654523Z">
+  <bookmark href="file:///home/eamoc/.config" added="2023-04-22T15:59:15.654522Z" modified="2023-04-26T12:14:44.256882Z" visited="2023-04-22T15:59:15.654523Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-22T16:42:24.182611Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:14:44.256878Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -23,12 +23,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local/share" added="2023-04-22T18:05:34.155669Z" modified="2023-04-22T18:05:34.155677Z" visited="2023-04-22T18:05:34.155670Z">
+  <bookmark href="file:///home/eamoc/.local/share" added="2023-04-22T18:05:34.155669Z" modified="2023-04-25T20:06:55.648618Z" visited="2023-04-22T18:05:34.155670Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-22T18:05:34.155673Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:06:55.648613Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -169,22 +169,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc" added="2023-04-25T16:01:55.957831Z" modified="2023-04-25T16:01:55.957838Z" visited="2023-04-25T16:01:55.957832Z">
+  <bookmark href="file:///home/eamoc" added="2023-04-25T16:01:55.957831Z" modified="2023-04-26T12:14:42.512329Z" visited="2023-04-25T16:01:55.957832Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:01:55.957835Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:14:42.512326Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-25T16:25:15.533976Z" visited="2023-04-25T16:01:58.154543Z">
+  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-26T12:06:48.143891Z" visited="2023-04-25T16:01:58.154543Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:25:15.533970Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:06:48.143886Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -219,12 +219,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/mYsTuFf/wallpaper" added="2023-04-25T16:04:19.973035Z" modified="2023-04-25T16:04:19.973039Z" visited="2023-04-25T16:04:19.973036Z">
+  <bookmark href="file:///home/eamoc/mYsTuFf/wallpaper" added="2023-04-25T16:04:19.973035Z" modified="2023-04-26T12:06:58.624220Z" visited="2023-04-25T16:04:19.973036Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:19.973037Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:06:58.624215Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -295,6 +295,705 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:25:05.126541Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Simplion.tar.gz" added="2023-04-25T16:50:58.084363Z" modified="2023-04-25T16:50:58.084372Z" visited="2023-04-25T16:50:58.084364Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T16:50:58.084369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/SimplionHD.tar.gz" added="2023-04-25T16:51:10.565255Z" modified="2023-04-25T16:51:10.565270Z" visited="2023-04-25T16:51:10.565256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T16:51:10.565264Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local" added="2023-04-25T17:01:39.117686Z" modified="2023-04-25T20:06:53.957914Z" visited="2023-04-25T17:01:39.117687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:06:53.957911Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/share/themes" added="2023-04-25T17:01:43.096292Z" modified="2023-04-25T20:06:12.177301Z" visited="2023-04-25T17:01:43.096294Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:06:12.177296Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/share/themes/readme" added="2023-04-25T17:01:59.158448Z" modified="2023-04-25T17:02:03.046012Z" visited="2023-04-25T17:01:59.158448Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-25T17:02:03.046008Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal" added="2023-04-25T20:02:24.043834Z" modified="2023-04-25T20:02:24.043840Z" visited="2023-04-25T20:02:24.043835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:02:24.043837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/scripts" added="2023-04-25T20:02:40.172785Z" modified="2023-04-25T20:03:48.451667Z" visited="2023-04-25T20:02:40.172786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:03:48.451665Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/README.md" added="2023-04-25T20:02:51.500453Z" modified="2023-04-25T20:02:51.500457Z" visited="2023-04-25T20:02:51.500454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:02:51.500455Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/scripts/generate.sh" added="2023-04-25T20:03:56.309379Z" modified="2023-04-25T20:03:56.309383Z" visited="2023-04-25T20:03:56.309380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:03:56.309381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/scripts/colortest.sh" added="2023-04-25T20:04:14.803430Z" modified="2023-04-25T20:04:14.803434Z" visited="2023-04-25T20:04:14.803431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:04:14.803432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/scripts/palette.conf" added="2023-04-25T20:04:32.700627Z" modified="2023-04-25T20:04:32.700631Z" visited="2023-04-25T20:04:32.700627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:04:32.700629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/xfce4-terminal/INSTALL.md" added="2023-04-25T20:04:57.059443Z" modified="2023-04-25T20:06:30.645746Z" visited="2023-04-25T20:04:57.059444Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:06:30.645744Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/xfce4" added="2023-04-25T20:07:09.657543Z" modified="2023-04-25T20:07:09.657555Z" visited="2023-04-25T20:07:09.657545Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:07:09.657549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/xfce4/terminal" added="2023-04-25T20:07:16.617445Z" modified="2023-04-25T20:07:16.617457Z" visited="2023-04-25T20:07:16.617447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:07:16.617451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM" added="2023-04-25T20:25:40.528968Z" modified="2023-04-26T12:06:33.663420Z" visited="2023-04-25T20:25:40.528969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:06:33.663416Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/1_Venture%20Into%20Vim" added="2023-04-25T20:25:42.747426Z" modified="2023-04-25T20:26:46.910452Z" visited="2023-04-25T20:25:42.747427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:26:46.910449Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/1_Venture%20Into%20Vim/01-Introduction.mov" added="2023-04-25T20:25:46.501319Z" modified="2023-04-25T20:26:49.557664Z" visited="2023-04-25T20:25:46.501319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:26:49.557661Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/2_Vim%20for%20Advanced%20Users" added="2023-04-25T20:25:59.129660Z" modified="2023-04-25T20:25:59.129673Z" visited="2023-04-25T20:25:59.129662Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:25:59.129666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/2_Vim%20for%20Advanced%20Users/01.%20Introduction.mov" added="2023-04-25T20:26:02.613554Z" modified="2023-04-25T20:26:02.613558Z" visited="2023-04-25T20:26:02.613554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:26:02.613556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/2_Vim%20for%20Advanced%20Users/02.%20Autocompleting%20in%20Vim.mov" added="2023-04-25T20:26:24.098901Z" modified="2023-04-25T20:26:24.098905Z" visited="2023-04-25T20:26:24.098902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/quicktime"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:26:24.098903Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Mastering%20Vim" added="2023-04-25T20:26:56.612094Z" modified="2023-04-25T20:32:12.149464Z" visited="2023-04-25T20:26:56.612095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:32:12.149459Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Mastering%20Vim/01-Introduction.mp4" added="2023-04-25T20:26:58.556926Z" modified="2023-04-25T20:31:32.165377Z" visited="2023-04-25T20:26:58.556927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:31:32.165373Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Practical%20Vim%20V413HAV" added="2023-04-25T20:27:06.603770Z" modified="2023-04-25T20:31:40.629986Z" visited="2023-04-25T20:27:06.603772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:31:40.629980Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Smash%20into%20Vim" added="2023-04-25T20:27:09.772099Z" modified="2023-04-25T20:31:45.575128Z" visited="2023-04-25T20:27:09.772101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:31:45.575123Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Smash%20into%20Vim/01.%20Smash%20into%20Vim%20Part%201" added="2023-04-25T20:27:11.396069Z" modified="2023-04-25T20:27:11.396082Z" visited="2023-04-25T20:27:11.396070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:27:11.396075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Smash%20into%20Vim/01.%20Smash%20into%20Vim%20Part%201/01.%20Introduction.mp4" added="2023-04-25T20:27:14.413486Z" modified="2023-04-25T20:27:14.413491Z" visited="2023-04-25T20:27:14.413487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:27:14.413489Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Masterclass" added="2023-04-25T20:27:41.380515Z" modified="2023-04-25T20:58:22.862761Z" visited="2023-04-25T20:27:41.380516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:58:22.862755Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Masterclass/01%20Course%20Introduction" added="2023-04-25T20:27:42.763417Z" modified="2023-04-25T20:27:42.763430Z" visited="2023-04-25T20:27:42.763419Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:27:42.763423Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Masterclass/01%20Course%20Introduction/001%20Course%20Overview.mp4" added="2023-04-25T20:27:45.629658Z" modified="2023-04-25T20:27:45.629662Z" visited="2023-04-25T20:27:45.629658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:27:45.629660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Mastery" added="2023-04-25T20:28:00.500452Z" modified="2023-04-25T20:28:00.500464Z" visited="2023-04-25T20:28:00.500454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:28:00.500458Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Mastery/01%20-%20Hello,%20Vim.mp4" added="2023-04-25T20:28:02.916892Z" modified="2023-04-25T20:28:02.916896Z" visited="2023-04-25T20:28:02.916892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:28:02.916894Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Smash%20into%20Vim/02.%20Smash%20into%20Vim%20Part%202" added="2023-04-25T20:31:46.717283Z" modified="2023-04-25T20:31:46.717295Z" visited="2023-04-25T20:31:46.717284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:31:46.717288Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Smash%20into%20Vim/02.%20Smash%20into%20Vim%20Part%202/04.%20Advanced%20Configuration.mp4" added="2023-04-25T20:31:49.606998Z" modified="2023-04-25T20:31:49.607003Z" visited="2023-04-25T20:31:49.606999Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:31:49.607000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass" added="2023-04-25T20:32:51.890650Z" modified="2023-04-25T21:34:32.752259Z" visited="2023-04-25T20:32:51.890651Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T21:34:32.752255Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/01%20Course%20Introduction" added="2023-04-25T20:32:53.835294Z" modified="2023-04-25T21:14:01.468479Z" visited="2023-04-25T20:32:53.835295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T21:14:01.468475Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/01%20Course%20Introduction/002%20Udemy-Help-Article-Downloading-Supplemental-Resources.txt" added="2023-04-25T20:33:10.622193Z" modified="2023-04-25T20:33:10.622197Z" visited="2023-04-25T20:33:10.622194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:33:10.622195Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/02%20Vim%20Quickstart" added="2023-04-25T20:33:21.459346Z" modified="2023-04-25T20:57:39.555448Z" visited="2023-04-25T20:33:21.459347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:57:39.555443Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/03%20Vim%20Essentials" added="2023-04-25T20:34:00.834832Z" modified="2023-04-25T20:34:00.834844Z" visited="2023-04-25T20:34:00.834833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:34:00.834838Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM/Vim%20Masterclass/02%20Vim%20Quickstart" added="2023-04-25T20:58:24.567350Z" modified="2023-04-25T20:58:24.567363Z" visited="2023-04-25T20:58:24.567351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T20:58:24.567356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/excercises" added="2023-04-25T21:17:45.616313Z" modified="2023-04-25T21:17:45.616322Z" visited="2023-04-25T21:17:45.616314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T21:17:45.616317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/09%20Vim%20Settings%20Preferences%20and%20Customizations" added="2023-04-25T21:34:53.930235Z" modified="2023-04-25T21:34:53.930240Z" visited="2023-04-25T21:34:53.930236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T21:34:53.930238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Masterclass/09%20Vim%20Settings%20Preferences%20and%20Customizations/038%20Vim%20Settings%20and%20the%20Vimrc%20File%20-%20Part%201.mp4" added="2023-04-25T21:35:01.045071Z" modified="2023-04-25T21:35:01.045076Z" visited="2023-04-25T21:35:01.045072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T21:35:01.045073Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/void-rpi-aarch64-20221001.img.xz" added="2023-04-26T07:18:12.571297Z" modified="2023-04-26T07:18:12.571306Z" visited="2023-04-26T07:18:12.571298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image-xz-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-26T07:18:12.571300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Documents" added="2023-04-26T12:06:43.698108Z" modified="2023-04-26T12:06:43.698120Z" visited="2023-04-26T12:06:43.698110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:06:43.698114Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery" added="2023-04-26T12:07:02.230577Z" modified="2023-04-26T12:07:02.230582Z" visited="2023-04-26T12:07:02.230578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:02.230580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/01%20-%20Hello,%20Vim.mp4" added="2023-04-26T12:07:20.384566Z" modified="2023-04-26T12:07:20.384571Z" visited="2023-04-26T12:07:20.384567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384568Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/04%20-%20A%20Prettier%20Vim.mp4" added="2023-04-26T12:07:20.384586Z" modified="2023-04-26T12:07:20.384588Z" visited="2023-04-26T12:07:20.384586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/02%20-%20Finding%20Your%20Way%20Around.mp4" added="2023-04-26T12:07:20.384597Z" modified="2023-04-26T12:07:20.384599Z" visited="2023-04-26T12:07:20.384597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384598Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/06%20-%20Vundle%20and%20Better%20File%20Browsing.mp4" added="2023-04-26T12:07:20.384605Z" modified="2023-04-26T12:07:20.384608Z" visited="2023-04-26T12:07:20.384605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/03%20-%20Mappings%20and%20Commands.mp4" added="2023-04-26T12:07:20.384616Z" modified="2023-04-26T12:07:20.384618Z" visited="2023-04-26T12:07:20.384616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/08%20-%20Configuration%20Tweaks.mp4" added="2023-04-26T12:07:20.384624Z" modified="2023-04-26T12:07:20.384626Z" visited="2023-04-26T12:07:20.384624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384624Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/05%20-%20Optimizing%20Window%20Splits.mp4" added="2023-04-26T12:07:20.384632Z" modified="2023-04-26T12:07:20.384634Z" visited="2023-04-26T12:07:20.384633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/10%20-%20Custom%20Highlighting.mp4" added="2023-04-26T12:07:20.384640Z" modified="2023-04-26T12:07:20.384643Z" visited="2023-04-26T12:07:20.384641Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384641Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/11%20-%20Site-Wide%20Search%20and%20Replace.mp4" added="2023-04-26T12:07:20.384648Z" modified="2023-04-26T12:07:20.384650Z" visited="2023-04-26T12:07:20.384648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/09%20-%20Browse%20Like%20a%20Pro%20With%20Ctags.mp4" added="2023-04-26T12:07:20.384656Z" modified="2023-04-26T12:07:20.384659Z" visited="2023-04-26T12:07:20.384657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384658Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/12%20-%20PeepOpen.mp4" added="2023-04-26T12:07:20.384666Z" modified="2023-04-26T12:07:20.384668Z" visited="2023-04-26T12:07:20.384666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/13%20-%20Laravel-Specific%20Mappings.mp4" added="2023-04-26T12:07:20.384675Z" modified="2023-04-26T12:07:20.384677Z" visited="2023-04-26T12:07:20.384675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/07%20-%20Faster%20Browsing%20with%20CtrlP.mp4" added="2023-04-26T12:07:20.384683Z" modified="2023-04-26T12:07:20.384685Z" visited="2023-04-26T12:07:20.384683Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384684Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/15%20-%20Surrounding%20Text.mp4" added="2023-04-26T12:07:20.384692Z" modified="2023-04-26T12:07:20.384694Z" visited="2023-04-26T12:07:20.384693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/16%20-%20PHP%20Optimizations.mp4" added="2023-04-26T12:07:20.384699Z" modified="2023-04-26T12:07:20.384701Z" visited="2023-04-26T12:07:20.384699Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/17%20-%20Auto-Completions.mp4" added="2023-04-26T12:07:20.384706Z" modified="2023-04-26T12:07:20.384709Z" visited="2023-04-26T12:07:20.384706Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384707Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/20%20-%20Tabs,%20Indents,%20and%20Spaces.mp4" added="2023-04-26T12:07:20.384714Z" modified="2023-04-26T12:07:20.384716Z" visited="2023-04-26T12:07:20.384714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384714Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/22%20-%20PHP%20Documentor%20and%20Ultisnips.mp4" added="2023-04-26T12:07:20.384721Z" modified="2023-04-26T12:07:20.384723Z" visited="2023-04-26T12:07:20.384721Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384722Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/19%20-%20Marks.mp4" added="2023-04-26T12:07:20.384728Z" modified="2023-04-26T12:07:20.384730Z" visited="2023-04-26T12:07:20.384728Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384729Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/18%20-%20Automatic%20PSR-2%20Formatting.mp4" added="2023-04-26T12:07:20.384735Z" modified="2023-04-26T12:07:20.384737Z" visited="2023-04-26T12:07:20.384736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384736Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/21%20-%20Fun%20With%20Macros.mp4" added="2023-04-26T12:07:20.384743Z" modified="2023-04-26T12:07:20.384745Z" visited="2023-04-26T12:07:20.384743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384744Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vim%20Mastery/14%20-%20Managing%20Snippets.mp4" added="2023-04-26T12:07:20.384750Z" modified="2023-04-26T12:07:20.384752Z" visited="2023-04-26T12:07:20.384750Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:07:20.384751Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim" added="2023-04-26T12:14:47.154557Z" modified="2023-04-26T12:14:47.154570Z" visited="2023-04-26T12:14:47.154559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:14:47.154563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.cache/starship/session_1931527874320494.log" added="2023-04-26T15:10:38.701094Z" modified="2023-04-26T15:10:46.822820Z" visited="2023-04-26T15:10:38.701095Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T15:10:38.701098Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-26T15:10:46.822815Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

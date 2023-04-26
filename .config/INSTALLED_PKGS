@@ -1,6 +1,9 @@
+albatross-themes
 alsa-plugins-pulseaudio
 alsa-tools
 alsa-utils
+arc-icon-theme
+arc-theme
 audacity
 base-devel
 base-system
@@ -19,10 +22,14 @@ firefox
 font-misc-misc
 gimp
 git
+gnome-icon-theme-extras
+gnome-icon-theme-symbolic
+gnome-icon-theme-xfce
 gnome-keyring
 gnome-themes-standard
 grub-i386-efi
 grub-x86_64-efi
+gtk-theme-config
 gvfs-afc
 gvfs-mtp
 gvfs-smb
@@ -48,6 +55,8 @@ pipewire
 python
 python3-pip
 qbittorrent
+qpdf
+qpdfview
 ranger
 rawtherapee
 rhythmbox

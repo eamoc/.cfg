@@ -1,0 +1,6 @@
+
+################################################### Tips and Tricks ##########################################################################################
+
+#find examples
+
+find . -name *.srt -type f -delete					"Recursively find all files that are regular files (-f), that match an extension and delete

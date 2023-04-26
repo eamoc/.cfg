@@ -38,6 +38,7 @@ getEssentials()
 	sudo xbps-install -Sy wget
 	printf "\n\nInstalling $FG_ORANGEVim Text Editor$RESET\n"
 	sudo xbps-install -Sy neovim
+	curl -fLo ~/.local/share/nvim/site/plugin/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 }
 
 packageInstall()
@@ -270,7 +271,7 @@ dconfConfig()
 	cp -v $HOME/.conf/DCONF_USER $HOME/dconf/user
 }
 
-#getEssentials
+getEssentials
 #packageInstall
 #createDirectories
 #firewallConfig
@@ -284,4 +285,4 @@ dconfConfig()
 #dconfConfig
 #lightdm_SvConfig
 #sourceBashrc
-dbus_SvConfig
+#dbus_SvConfig
