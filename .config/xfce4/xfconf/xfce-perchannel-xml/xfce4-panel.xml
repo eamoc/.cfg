@@ -66,7 +66,7 @@
       <property name="length" type="double" value="1"/>
     </property>
     <property name="panel-4" type="empty">
-      <property name="position" type="string" value="p=12;x=1204;y=1414"/>
+      <property name="position" type="string" value="p=12;x=2188;y=1421"/>
       <property name="size" type="uint" value="36"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="2"/>
@@ -78,17 +78,17 @@
       <property name="leave-opacity" type="uint" value="22"/>
     </property>
     <property name="panel-5" type="empty">
-      <property name="position" type="string" value="p=5;x=21;y=888"/>
+      <property name="position" type="string" value="p=12;x=433;y=1421"/>
       <property name="size" type="uint" value="36"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="4"/>
       </property>
-      <property name="mode" type="uint" value="1"/>
-      <property name="length" type="double" value="1"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="length" type="double" value="19.140625"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="enable-struts" type="bool" value="false"/>
-      <property name="leave-opacity" type="uint" value="20"/>
+      <property name="leave-opacity" type="uint" value="19"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -165,7 +165,7 @@
     </property>
     <property name="plugin-5" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance1613"/>
+      <property name="mpris-players" type="string" value="firefox.instance1331;firefox.instance1613;firefox.instance28221"/>
     </property>
     <property name="plugin-6" type="string" value="netload"/>
     <property name="plugin-9" type="string" value="notification-plugin"/>

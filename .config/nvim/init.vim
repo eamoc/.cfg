@@ -9,6 +9,7 @@
 "         _\///_____\/////_________\///_________\///////////___\///______________\///___\///////////////___\///________\///_________\/////////__
 "
 " ---------------------------------------basic ssettings----------------------------------------------------
+source $HOME/.config/nvim/plugin-config.vim
 let mapleader=','							" set the leader key
 
 
@@ -20,8 +21,8 @@ set number
 set relativenumber
 set hlsearch								" enable search highlighting
 set incsearch								" jump to first search term
-
-
+set background=dark
+colorscheme solarized
 
 
 
@@ -56,10 +57,6 @@ augroup END
 
 
 
-" ---------------------------------------plugins----------------------------------------------------
-call plug#begin($VIM_PLUGIN_DIR)
-"	Plug 'tpope/vim-sensible'
-call plug#end()
 
 
 
