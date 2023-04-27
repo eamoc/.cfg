@@ -77,3 +77,115 @@
 (N) 2023-04-26T11:08:30 - qBittorrent termination initiated
 (I) 2023-04-26T11:08:30 - UPnP/NAT-PMP support: OFF
 (N) 2023-04-26T11:08:30 - qBittorrent is now ready to exit
+(N) 2023-04-27T14:08:06 - qBittorrent v4.5.2 started
+(N) 2023-04-27T14:08:06 - Using config directory: /home/eamoc/.config/qBittorrent
+(N) 2023-04-27T14:08:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:19925,[::]:19925"
+(I) 2023-04-27T14:08:06 - Peer ID: "-qB4520-"
+(I) 2023-04-27T14:08:06 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-04-27T14:08:06 - Distributed Hash Table (DHT) support: ON
+(I) 2023-04-27T14:08:06 - Local Peer Discovery support: ON
+(I) 2023-04-27T14:08:06 - Peer Exchange (PeX) support: ON
+(I) 2023-04-27T14:08:06 - Anonymous mode: OFF
+(I) 2023-04-27T14:08:06 - Encryption support: ON
+(I) 2023-04-27T14:08:06 - UPnP/NAT-PMP support: ON
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "192.168.0.186". Port: "TCP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "192.168.0.186". Port: "UDP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "::1". Port: "TCP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "::1". Port: "UDP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "TCP/19925"
+(I) 2023-04-27T14:08:07 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "UDP/19925"
+(I) 2023-04-27T14:08:07 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: TCP/19925"
+(I) 2023-04-27T14:08:07 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: UDP/19925"
+(N) 2023-04-27T14:08:07 - Restored torrent. Torrent: "[Bitsearch.to] King Curtis - Live At Fillmore West 1971"
+(I) 2023-04-27T14:08:07 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Apr 1 01:22:10 2023.
+(I) 2023-04-27T14:08:08 - Python detected, executable name: 'python3', version: 3.11.3
+(N) 2023-04-27T14:09:05 - qBittorrent termination initiated
+(I) 2023-04-27T14:09:05 - UPnP/NAT-PMP support: OFF
+(N) 2023-04-27T14:09:05 - qBittorrent is now ready to exit
+(N) 2023-04-27T14:09:24 - qBittorrent v4.5.2 started
+(N) 2023-04-27T14:09:24 - Using config directory: /home/eamoc/.config/qBittorrent
+(N) 2023-04-27T14:09:24 - Trying to listen on the following list of IP addresses: "0.0.0.0:19925,[::]:19925"
+(I) 2023-04-27T14:09:24 - Peer ID: "-qB4520-"
+(I) 2023-04-27T14:09:24 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-04-27T14:09:24 - Distributed Hash Table (DHT) support: ON
+(I) 2023-04-27T14:09:24 - Local Peer Discovery support: ON
+(I) 2023-04-27T14:09:24 - Peer Exchange (PeX) support: ON
+(I) 2023-04-27T14:09:24 - Anonymous mode: OFF
+(I) 2023-04-27T14:09:24 - Encryption support: ON
+(I) 2023-04-27T14:09:24 - UPnP/NAT-PMP support: ON
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "192.168.0.186". Port: "TCP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "192.168.0.186". Port: "UDP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "::1". Port: "TCP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "::1". Port: "UDP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "TCP/19925"
+(I) 2023-04-27T14:09:24 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "UDP/19925"
+(N) 2023-04-27T14:09:24 - Restored torrent. Torrent: "[Bitsearch.to] King Curtis - Live At Fillmore West 1971"
+(I) 2023-04-27T14:09:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Apr 1 01:22:10 2023.
+(I) 2023-04-27T14:09:24 - Python detected, executable name: 'python3', version: 3.11.3
+(I) 2023-04-27T14:09:24 - Detected external IP. IP: "79.97.123.17"
+(I) 2023-04-27T14:09:24 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: TCP/19925"
+(I) 2023-04-27T14:09:25 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: UDP/19925"
+(N) 2023-04-27T14:09:36 - qBittorrent termination initiated
+(I) 2023-04-27T14:09:36 - UPnP/NAT-PMP support: OFF
+(N) 2023-04-27T14:09:37 - qBittorrent is now ready to exit
+(N) 2023-04-27T14:10:55 - qBittorrent v4.5.2 started
+(N) 2023-04-27T14:10:55 - Using config directory: /home/eamoc/.config/qBittorrent
+(N) 2023-04-27T14:10:55 - Trying to listen on the following list of IP addresses: "0.0.0.0:19925,[::]:19925"
+(I) 2023-04-27T14:10:55 - Peer ID: "-qB4520-"
+(I) 2023-04-27T14:10:55 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-04-27T14:10:55 - Distributed Hash Table (DHT) support: ON
+(I) 2023-04-27T14:10:55 - Local Peer Discovery support: ON
+(I) 2023-04-27T14:10:55 - Peer Exchange (PeX) support: ON
+(I) 2023-04-27T14:10:55 - Anonymous mode: OFF
+(I) 2023-04-27T14:10:55 - Encryption support: ON
+(I) 2023-04-27T14:10:55 - UPnP/NAT-PMP support: ON
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "192.168.0.186". Port: "TCP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "192.168.0.186". Port: "UDP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "::1". Port: "TCP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "::1". Port: "UDP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "TCP/19925"
+(I) 2023-04-27T14:10:55 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "UDP/19925"
+(N) 2023-04-27T14:10:55 - Restored torrent. Torrent: "[Bitsearch.to] King Curtis - Live At Fillmore West 1971"
+(I) 2023-04-27T14:10:55 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Apr 1 01:22:10 2023.
+(I) 2023-04-27T14:10:55 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: TCP/19925"
+(I) 2023-04-27T14:10:55 - Python detected, executable name: 'python3', version: 3.11.3
+(I) 2023-04-27T14:10:55 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: UDP/19925"
+(W) 2023-04-27T14:13:31 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(W) 2023-04-27T14:13:31 - UPnP/NAT-PMP port mapping failed. Message: "could not map port using UPnP: no router found"
+(N) 2023-04-27T14:19:19 - Options saved.
+(N) 2023-04-27T14:19:24 - qBittorrent termination initiated
+(I) 2023-04-27T14:19:24 - UPnP/NAT-PMP support: OFF
+(N) 2023-04-27T14:19:29 - qBittorrent is now ready to exit
+(N) 2023-04-27T14:20:02 - qBittorrent v4.5.2 started
+(N) 2023-04-27T14:20:02 - Using config directory: /home/eamoc/.config/qBittorrent
+(N) 2023-04-27T14:20:02 - Trying to listen on the following list of IP addresses: "0.0.0.0:19925,[::]:19925"
+(I) 2023-04-27T14:20:02 - Peer ID: "-qB4520-"
+(I) 2023-04-27T14:20:02 - HTTP User-Agent: "qBittorrent/4.5.2"
+(I) 2023-04-27T14:20:02 - Distributed Hash Table (DHT) support: ON
+(I) 2023-04-27T14:20:02 - Local Peer Discovery support: ON
+(I) 2023-04-27T14:20:02 - Peer Exchange (PeX) support: ON
+(I) 2023-04-27T14:20:02 - Anonymous mode: OFF
+(I) 2023-04-27T14:20:02 - Encryption support: ON
+(I) 2023-04-27T14:20:02 - UPnP/NAT-PMP support: ON
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "127.0.0.1". Port: "UDP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "192.168.0.186". Port: "TCP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "192.168.0.186". Port: "UDP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "::1". Port: "TCP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "::1". Port: "UDP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "TCP/19925"
+(I) 2023-04-27T14:20:02 - Successfully listening on IP. IP: "fe80::1d6d:a02b:f280:8699%eno1". Port: "UDP/19925"
+(N) 2023-04-27T14:20:02 - Restored torrent. Torrent: "[Bitsearch.to] King Curtis - Live At Fillmore West 1971"
+(I) 2023-04-27T14:20:02 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Apr 1 01:22:10 2023.
+(I) 2023-04-27T14:20:02 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: TCP/19925"
+(I) 2023-04-27T14:20:02 - Python detected, executable name: 'python3', version: 3.11.3
+(I) 2023-04-27T14:20:03 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using NAT-PMP. external port: UDP/19925"
+(N) 2023-04-27T14:20:16 - qBittorrent termination initiated
+(I) 2023-04-27T14:20:16 - UPnP/NAT-PMP support: OFF
+(N) 2023-04-27T14:20:16 - qBittorrent is now ready to exit

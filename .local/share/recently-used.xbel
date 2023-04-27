@@ -1038,4 +1038,24 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/darkstylesheet.qbtheme" added="2023-04-27T13:17:03.222628Z" modified="2023-04-27T13:17:03.222635Z" visited="2023-04-27T13:17:03.222628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-27T13:17:03.222632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/qBittorrent/darkstylesheet.qbtheme" added="2023-04-27T13:19:11.473102Z" modified="2023-04-27T13:19:11.473116Z" visited="2023-04-27T13:19:11.473104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="qbittorrent" exec="&apos;qbittorrent %u&apos;" modified="2023-04-27T13:19:11.473109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
