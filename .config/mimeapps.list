@@ -5,3 +5,6 @@ application/octet-stream=org.xfce.mousepad.desktop
 application/octet-stream=org.xfce.mousepad.desktop;
 text/x-readme=org.xfce.mousepad.desktop;
 text/x-log=org.xfce.mousepad.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;
+text/plain=org.xfce.mousepad.desktop;
+application/x-theme=org.xfce.mousepad.desktop;

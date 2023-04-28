@@ -9,14 +9,5 @@ export CURRENT_BLOG=$HOME/blogs/myBlog/
 export VIM_PLUGINS_DIR=$HOME/.config/nvim/plugged/
 export PICTURES_FOLDER=/media/d2/PHOTOS/
 export STARSHIP_CONFIG=$HOME/.config/starship.toml
-
-# XDG Base Directory Specification
-#export XDG_DATA_HOME=$HOME/.local/share
-#export XDG_CONFIG_HOME=$HOME/.config
-#export XDG_STATE_HOME=$HOME/.local/state
-#export XDG_DATA_DIRS=/usr/local/share/:/usr/share/
-#export XDG_CONFIG_DIRS=/etc/xdg
-#export XDG_CACHE_HOME=$HOME/.cache
-
-
-
+export PG_OF_PATH=$HOME/openFrameworks/OF
+export DEV_PROJECT_DIR=$HOME/mYsTuFf/code

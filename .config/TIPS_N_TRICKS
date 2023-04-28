@@ -4,3 +4,4 @@
 #find examples
 
 find . -name *.srt -type f -delete					"Recursively find all files that are regular files (-f), that match an extension and delete
+sed -i 's/old-text/new-text/g' input.txt				"Find and replace a word in a file

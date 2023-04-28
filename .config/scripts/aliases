@@ -32,6 +32,30 @@ alias e='exit'
 #source .bashrc
 alias s='. ~/.bashrc'
 
+#Shutdown and Reboot the machine
+alias po='sudo poweroff'
+alias rb='sudo reboot'
+
+
+#Install and remove
+alias _i='sudo xbps-install -Su'
+alias _r='sudo xbps-remove'
+
+#query local and remote packages
+alias _l='xbps-query -l | grep '
+alias _q='xbps-query --regex -Rs'
+
+#Perform a full system upgrade
+alias _u='sudo xbps-install -Suv'
+
+#List manulally installed packages and pipe result to file
+alias _m='xbps-query -m | xargs -n1 xbps-uhelper getpkgname > ~/.config/INSTALLED_PKGS'
+
+#Update the mlocate database
+alias udb='sudo updatedb -v'
+alias h='history'
+#alias hh='history | grep '
+alias l='locate'
 
 #Git aliases
 alias git='hub'
@@ -62,9 +86,13 @@ alias cca='cfg commit -v -a'
 alias cfgp='cfg push'
 
 
-
 #Show scripts/ directory
 alias £s='nvim $HOME/.config/scripts/'
+alias %s='cd $HOME/.config/scripts/'
+
+#Show the code directory
+alias £c='nvim $DEV_PROJECT_DIR'
+alias %c='cd $DEV_PROJECT_DIR'
 
 #Open postinstall.sh in vim
 alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
@@ -90,41 +118,23 @@ alias £xi='nvim $HOME/.xinitrc'
 #check status of all services
 alias svst='sudo sv status /var/service/*' 
 
-
+#openFrameworks. Specify a directory name 
+alias %dv='cd $DEV_PROJECT_DIR'
+alias +of='cd $DEV_PROJECT_DIR && $HOME/.config/scripts/newOFProject.sh'
+alias %ofx='cd $HOME/openFrameworks/examples/'
 #open the pdfviewer
 alias pdf='qpdfview'
 
+#vim shortcuts
+alias v='nvim'
+alias £ev='v $HOME/.config/nvim/init.vim'
+alias £pc='v $HOME/.config/nvim/plugin-config.vim'
+alias +vc='cd $HOME/mYsTuFf/code/ && nvim'
+
+#gdb shortcuts
+alias +gdb='cd $HOME/mYsTuFf/codeProjects && gdb'
 #ranger
 alias r='ranger'
-
-#Shutdown and Reboot the machine
-alias po='sudo poweroff'
-alias rb='sudo reboot'
-
-
-#Install and remove
-alias _i='sudo xbps-install -Su'
-alias _r='sudo xbps-remove'
-
-
-#query local and remote packages
-alias _l='xbps-query -l | grep '
-alias _q='xbps-query --regex -Rs'
-
-
-#Perform a full system upgrade
-alias _u='sudo xbps-install -Suv'
-
-
-#List manulally installed packages and pipe result to file
-alias _m='xbps-query -m | xargs -n1 xbps-uhelper getpkgname > ~/.config/INSTALLED_PKGS'
-
-
-#Update the mlocate database
-alias udb='sudo updatedb -v'
-alias h='history'
-#alias hh='history | grep '
-alias l='locate'
 
 
 #Start hugo test server in draft mode for $CURRENT_BLOG
@@ -135,17 +145,3 @@ alias +hg='cd ~/blogResources/$CURRENT_BLOG && hugo server'
 #speedtest
 alias spd='speedtest-cli'
 
-#vim shortcuts
-alias v='nvim'
-alias £vr='v $HOME/.config/nvim/init.vim'
-alias £vp='v $HOME/.config/nvim/plugins.vim'
-alias £pc='v $HOME/.config/nvim/plugin-config.vim'
-alias +vc='cd $HOME/mYsTuFf/codeProjects/ && nvim'
-
-#gdb shortcuts
-alias +gdb='cd $HOME/sCrAtCh/codeProjects && gdb'
-
-#OpenFrameworks. Specify a directory name 
-alias %of='cd $HOME/sCrAtCh/OFProjects/'
-alias +of='cd $HOME/sCrAtCh/OFProjects/ &&  $HOME/.config/scripts/newOFProject.sh'
-alias %ofx='cd $HOME/openFrameworks/examples/'

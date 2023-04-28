@@ -1,5 +1,14 @@
 # This is a TOML document.
 
+
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true
+
+
 # Don't print a new line at the start of the prompt
 add_newline = false
 
@@ -8,12 +17,7 @@ add_newline = false
 success_symbol = "[→](bold green)"     # The "success_symbol" segment is being set to "→" with the color "bold green"
 error_symbol = "[→](#9e4612)"
 
-# Disable the package module, hiding it from the prompt completely
-[package]
-disabled = true
-
 [directory]
 truncation_length = 100
 truncate_to_repo = false
 
-#command_timeout

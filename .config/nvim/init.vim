@@ -26,6 +26,10 @@ colorscheme solarized
 
 
 
+
+
+
+
 " ---------------------------------------split management----------------------------------------------------
 set splitbelow
 set splitright
@@ -48,9 +52,11 @@ nmap <Leader><space> :nohlsearch<cr>					" simple highlight removal
 
 
 " ---------------------------------------auto-commands----------------------------------------------------
-augroup autosource 
+augroup file_mgmt 
 	autocmd!
 	autocmd BufWritePost init.vim source %				" automatically source init.vim on save
+	autocmd BufNewFile *.sh 0r /home/eamoc/.config/nvim/templates/BASH_TEMPLATE
+	autocmd BufNewFile *.html 0r /home/eamoc/.config/nvim/templates/HTML_TEMPLATE
 augroup END
 
 
@@ -72,7 +78,10 @@ augroup END
 " :q quit :q! quit no save
 " :wq write and quit
 " :so % source the open file
-"
+" dd deletes a line 
+" dw deletes a word. in only deletes after the cursor
+" daw deletes all the word. includes the white space after the word.
+" diw ignore the white space
 " :bn next buffer
 " :bd delete buffer
 " :bp previous buffer
