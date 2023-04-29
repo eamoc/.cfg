@@ -10,15 +10,14 @@
 "
 " ---------------------------------------basic ssettings----------------------------------------------------
 source $HOME/.config/nvim/plugin-config.vim
-let mapleader=','							" set the leader key
+let mapleader='<space>'							" set the leader key
 
 
 
 
 
 " ---------------------------------------visuals----------------------------------------------------
-set number
-set relativenumber
+set number relativenumber
 set hlsearch								" enable search highlighting
 set incsearch								" jump to first search term
 set background=dark
@@ -39,7 +38,6 @@ nmap <C-K> <C-W><C-K>
 nmap <C-H> <C-W><C-H>
 nmap <C-L> <C-W><C-L>
 
- 
 
 
 
@@ -57,6 +55,7 @@ augroup file_mgmt
 	autocmd BufWritePost init.vim source %				" automatically source init.vim on save
 	autocmd BufNewFile *.sh 0r /home/eamoc/.config/nvim/templates/BASH_TEMPLATE
 	autocmd BufNewFile *.html 0r /home/eamoc/.config/nvim/templates/HTML_TEMPLATE
+	autocmd BufNewFile *.cpp 0r /home/eamoc/.config/nvim/templates/CPP_TEMPLATE
 augroup END
 
 
@@ -69,25 +68,36 @@ augroup END
 
 
 
-"******************Tips n Tricks *******************************
+"******************Tips n Tricks TNT*******************************
 " gg go to top of file. 4gg goes to 4th line down
+" gk gj move up or down one visual line, regardless of wrapped text
+" g$ goes to end of line, g^ or g0 goes to beginning
 " G go to bottom of file
+" gf go to the file that the cursor is over
+" gU capitakize a character
+" gu uncapitalize a character
+" ^ brings you back to the previous file
 " zz go to middle of file
 " :e edit a file
 " :w write a file
 " :q quit :q! quit no save
 " :wq write and quit
 " :so % source the open file
-" dd deletes a line 
+" dd deletes a line. Note that this will include the carriage return.
+" ^y$, ^d$ etc. go to the beginning of lie, start operation, complete until end of line. e.g. ^daw$, ^cip$ etc.
 " dw deletes a word. in only deletes after the cursor
 " daw deletes all the word. includes the white space after the word.
 " diw ignore the white space
-" :bn next buffer
+" das delete around a sentance
+" dap delete aroud a paragraph
+" c is the same as d except it leaves the user in insert mode
+" . repeate the last command
 " :bd delete buffer
+" :bn next buffer
 " :bp previous buffer
 " :bN goto buffer N
 " :ls list open buffers
-" :tabn next tab
+" :tabn next tab8
 " :tabp previous tab
 " :tabc close tab
 " :tabe <file> open a file on a new

@@ -159,12 +159,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES" added="2023-04-25T16:00:39.419629Z" modified="2023-04-27T21:34:58.192941Z" visited="2023-04-25T16:00:39.419631Z">
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES" added="2023-04-25T16:00:39.419629Z" modified="2023-04-28T19:43:32.348134Z" visited="2023-04-25T16:00:39.419631Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-27T21:34:58.192939Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:43:32.348132Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -179,12 +179,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-28T15:56:45.463871Z" visited="2023-04-25T16:01:58.154543Z">
+  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-29T10:15:44.413471Z" visited="2023-04-25T16:01:58.154543Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T15:56:45.463866Z" count="9"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:44.413469Z" count="11"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -229,12 +229,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="computer:///" added="2023-04-25T16:04:27.208573Z" modified="2023-04-25T16:04:27.208577Z" visited="2023-04-25T16:04:27.208574Z">
+  <bookmark href="computer:///" added="2023-04-25T16:04:27.208573Z" modified="2023-04-28T19:19:33.565402Z" visited="2023-04-25T16:04:27.208574Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:27.208575Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:19:33.565400Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1358,6 +1358,1000 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T16:33:15.249872Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIDEOS" added="2023-04-28T18:32:15.029364Z" modified="2023-04-28T18:32:15.029382Z" visited="2023-04-28T18:32:15.029367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:32:15.029373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIDEOS/_MISC" added="2023-04-28T18:32:17.693286Z" modified="2023-04-28T18:32:17.693294Z" visited="2023-04-28T18:32:17.693287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:32:17.693290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIDEOS/ART" added="2023-04-28T18:32:27.325921Z" modified="2023-04-28T18:32:27.325932Z" visited="2023-04-28T18:32:27.325923Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:32:27.325927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS" added="2023-04-28T18:33:21.608106Z" modified="2023-04-28T19:19:01.934408Z" visited="2023-04-28T18:33:21.608108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:19:01.934406Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++" added="2023-04-28T18:37:51.849623Z" modified="2023-04-28T18:45:11.341649Z" visited="2023-04-28T18:37:51.849625Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:45:11.341644Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BFreeCourseSite.com%5D%20Udemy%20-%20Advanced%20C%20Programming%20Pointers" added="2023-04-28T18:37:59.704688Z" modified="2023-04-28T18:37:59.704696Z" visited="2023-04-28T18:37:59.704689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:37:59.704692Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BFreeCourseSite.com%5D%20Udemy%20-%20Advanced%20C%20Programming%20Pointers/01%20Pointer%20Basics" added="2023-04-28T18:38:01.373951Z" modified="2023-04-28T18:38:01.373965Z" visited="2023-04-28T18:38:01.373953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:38:01.373957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BFreeCourseSite.com%5D%20Udemy%20-%20Advanced%20C%20Programming%20Pointers/01%20Pointer%20Basics/005%20What%20is%20a%20pointer.mp4" added="2023-04-28T18:38:08.447045Z" modified="2023-04-28T18:38:08.447049Z" visited="2023-04-28T18:38:08.447045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:38:08.447047Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Advanced%20C%20Programming%20Pointers" added="2023-04-28T18:39:09.067808Z" modified="2023-04-28T18:39:40.692982Z" visited="2023-04-28T18:39:09.067810Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:39:40.692977Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Advanced%20C%20Programming%20Pointers/%5BTutsgalaxy.com%5D%20-%20Advanced%20C%20Programming%20Pointers" added="2023-04-28T18:40:18.361571Z" modified="2023-04-28T18:40:18.361575Z" visited="2023-04-28T18:40:18.361571Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:40:18.361573Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Advanced%20C%20Programming%20Pointers/%5BTutsgalaxy.com%5D%20-%20Advanced%20C%20Programming%20Pointers/01%20Pointer%20Basics" added="2023-04-28T18:40:19.782362Z" modified="2023-04-28T18:40:19.782373Z" visited="2023-04-28T18:40:19.782363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:40:19.782367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Advanced%20C%20Programming%20Pointers/%5BTutsgalaxy.com%5D%20-%20Advanced%20C%20Programming%20Pointers/01%20Pointer%20Basics/001%20What%20is%20this%20course%20about.mp4" added="2023-04-28T18:40:23.717275Z" modified="2023-04-28T18:40:23.717279Z" visited="2023-04-28T18:40:23.717275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:40:23.717277Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students" added="2023-04-28T18:40:48.834963Z" modified="2023-04-28T18:53:19.422089Z" visited="2023-04-28T18:40:48.834964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:19.422083Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/0.%20Websites%20you%20may%20like" added="2023-04-28T18:40:54.345098Z" modified="2023-04-28T18:53:21.447378Z" visited="2023-04-28T18:40:54.345100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:21.447371Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/1.%20Welcome%20to%20Course!" added="2023-04-28T18:40:58.001685Z" modified="2023-04-28T18:40:58.001703Z" visited="2023-04-28T18:40:58.001687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:40:58.001693Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/1.%20Welcome%20to%20Course!/2.%20Curriculum%20-%20What%20you&apos;re%20going%20to%20LEARN.mp4" added="2023-04-28T18:40:59.793316Z" modified="2023-04-28T18:40:59.793321Z" visited="2023-04-28T18:40:59.793317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:40:59.793318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/11.%20Conditions%20And%20Control%20Flow%20-%20Is%20That%20TrueFalse" added="2023-04-28T18:41:27.633884Z" modified="2023-04-28T18:41:27.633899Z" visited="2023-04-28T18:41:27.633885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:41:27.633890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/11.%20Conditions%20And%20Control%20Flow%20-%20Is%20That%20TrueFalse/3.%20Congratulations%20In%20C%20-%20Complete%20Usage%20Of%20Conditions%20In%20C%20Programming.mp4" added="2023-04-28T18:41:32.105596Z" modified="2023-04-28T18:41:32.105600Z" visited="2023-04-28T18:41:32.105596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:41:32.105598Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/11.%20Conditions%20And%20Control%20Flow%20-%20Is%20That%20TrueFalse/4.%20Finding%20Maximum%20between%202%20numbers%20-%20General%20Concept.mp4" added="2023-04-28T18:41:39.782532Z" modified="2023-04-28T18:41:39.782537Z" visited="2023-04-28T18:41:39.782533Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:41:39.782534Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Accelerated%20Introduction%20to%20C++" added="2023-04-28T18:42:09.159614Z" modified="2023-04-28T18:53:05.587167Z" visited="2023-04-28T18:42:09.159615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:05.587161Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Accelerated%20Introduction%20to%20C++/1.%20Introducing%20C++" added="2023-04-28T18:42:11.608220Z" modified="2023-04-28T18:53:08.235221Z" visited="2023-04-28T18:42:11.608222Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:08.235215Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Accelerated%20Introduction%20to%20C++/1.%20Introducing%20C++/01-About%20the%20Course.mp4" added="2023-04-28T18:42:13.120848Z" modified="2023-04-28T18:53:09.722916Z" visited="2023-04-28T18:42:13.120849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:09.722912Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Learn%20Advanced%20C++%20Programming" added="2023-04-28T18:42:27.728418Z" modified="2023-04-28T18:52:35.686550Z" visited="2023-04-28T18:42:27.728420Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:52:35.686544Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_MOVIES" added="2023-04-28T18:43:43.207797Z" modified="2023-04-28T18:43:43.207809Z" visited="2023-04-28T18:43:43.207799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:43:43.207803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5B%20FreeCourseWeb.com%20%5D%20Udemy%20-%20C%20Programming%20Language%20Basic%20to%20Advanced%20for%20Beginners.zip" added="2023-04-28T18:45:14.057495Z" modified="2023-04-28T18:45:14.057502Z" visited="2023-04-28T18:45:14.057496Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:45:14.057498Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Learn%20Advanced%20C++%20Programming/%5BTutsgalaxy.com%5D%20-%20Learn%20Advanced%20C++%20Programming" added="2023-04-28T18:51:07.607509Z" modified="2023-04-28T18:51:07.607516Z" visited="2023-04-28T18:51:07.607510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:51:07.607512Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Learn%20Advanced%20C++%20Programming/%5BTutsgalaxy.com%5D%20-%20Learn%20Advanced%20C++%20Programming/1.%20Linked%20List" added="2023-04-28T18:51:09.178436Z" modified="2023-04-28T18:51:09.178445Z" visited="2023-04-28T18:51:09.178437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:51:09.178440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Learn%20Advanced%20C++%20Programming/%5BTutsgalaxy.com%5D%20-%20Learn%20Advanced%20C++%20Programming/1.%20Linked%20List/1.%20Section%20Overview.mp4" added="2023-04-28T18:51:15.335292Z" modified="2023-04-28T18:51:15.335296Z" visited="2023-04-28T18:51:15.335293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:51:15.335294Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/9.%20ACADEMIC%20PRACTICE%20%232%20College%20Exercises%20&amp;%20Solutions%20-%20Variables%20&amp;%20Data%20Types" added="2023-04-28T18:53:23.813718Z" modified="2023-04-28T18:53:23.813733Z" visited="2023-04-28T18:53:23.813719Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:23.813724Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5BGigaCourse.Com%5D%20Udemy%20-%20Complete%20C%20Programming%20Course%20-%20C%20Language%20for%20Students/9.%20ACADEMIC%20PRACTICE%20%232%20College%20Exercises%20&amp;%20Solutions%20-%20Variables%20&amp;%20Data%20Types/6.%20Employee%20Salary%20Calculator%20-%20Question.mp4" added="2023-04-28T18:53:27.557905Z" modified="2023-04-28T18:53:27.557911Z" visited="2023-04-28T18:53:27.557905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:27.557907Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language" added="2023-04-28T18:53:53.213016Z" modified="2023-04-28T18:53:53.213029Z" visited="2023-04-28T18:53:53.213018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:53.213022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language/%5BTutsNode.com%5D%20-%20Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language" added="2023-04-28T18:53:55.572403Z" modified="2023-04-28T18:53:55.572418Z" visited="2023-04-28T18:53:55.572405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:55.572410Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language/%5BTutsNode.com%5D%20-%20Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language/1.%20Welcome%20Aboard!" added="2023-04-28T18:53:57.220648Z" modified="2023-04-28T18:53:57.220663Z" visited="2023-04-28T18:53:57.220650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:57.220655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language/%5BTutsNode.com%5D%20-%20Pointers%20in%20C%20Programming%20-%20Master%20the%20C%20Language/1.%20Welcome%20Aboard!/1.%20About%20the%20course.mp4" added="2023-04-28T18:53:58.346132Z" modified="2023-04-28T18:53:58.346137Z" visited="2023-04-28T18:53:58.346133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:53:58.346135Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5B%20FreeCourseWeb.com%20%5D%20Udemy%20-%20C%20Programming%20Language%20Basic%20to%20Advanced%20for%20Beginners" added="2023-04-28T18:55:25.554591Z" modified="2023-04-28T18:55:25.554597Z" visited="2023-04-28T18:55:25.554592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:55:25.554594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5B%20FreeCourseWeb.com%20%5D%20Udemy%20-%20C%20Programming%20Language%20Basic%20to%20Advanced%20for%20Beginners/~Get%20Your%20Course%20Here%20!" added="2023-04-28T18:55:27.242767Z" modified="2023-04-28T18:55:27.242773Z" visited="2023-04-28T18:55:27.242768Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:55:27.242770Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5B%20FreeCourseWeb.com%20%5D%20Udemy%20-%20C%20Programming%20Language%20Basic%20to%20Advanced%20for%20Beginners/~Get%20Your%20Course%20Here%20!/1.%20Fundamental%20and%20Basic%20Concept" added="2023-04-28T18:55:28.691876Z" modified="2023-04-28T18:55:28.691882Z" visited="2023-04-28T18:55:28.691876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:55:28.691879Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/C_C++/%5B%20FreeCourseWeb.com%20%5D%20Udemy%20-%20C%20Programming%20Language%20Basic%20to%20Advanced%20for%20Beginners/~Get%20Your%20Course%20Here%20!/1.%20Fundamental%20and%20Basic%20Concept/2.%20Character%20set%20and%20Tokens.mp4" added="2023-04-28T18:55:30.424558Z" modified="2023-04-28T18:55:30.424563Z" visited="2023-04-28T18:55:30.424559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:55:30.424561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Master%20The%20C%20Programming%20Language" added="2023-04-28T18:56:37.129615Z" modified="2023-04-28T18:57:55.971650Z" visited="2023-04-28T18:56:37.129616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:57:55.971647Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Master%20The%20C%20Programming%20Language/%5BTutsNode.com%5D%20-%20Master%20The%20C%20Programming%20Language" added="2023-04-28T18:56:38.457078Z" modified="2023-04-28T18:57:58.010097Z" visited="2023-04-28T18:56:38.457079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:57:58.010094Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Master%20The%20C%20Programming%20Language/%5BTutsNode.com%5D%20-%20Master%20The%20C%20Programming%20Language/1.%20Introduction" added="2023-04-28T18:56:39.392626Z" modified="2023-04-28T18:56:39.392630Z" visited="2023-04-28T18:56:39.392627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:56:39.392628Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Master%20The%20C%20Programming%20Language/%5BTutsNode.com%5D%20-%20Master%20The%20C%20Programming%20Language/1.%20Introduction/1.%20Introduction.mp4" added="2023-04-28T18:56:42.035511Z" modified="2023-04-28T18:56:42.035516Z" visited="2023-04-28T18:56:42.035512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T18:56:42.035513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20Udemy%20-%20Programming%20Using%20C%20and%20Data%20Structures%20From%20Basic%20To%20Advanced" added="2023-04-28T18:56:56.910017Z" modified="2023-04-28T20:23:54.133558Z" visited="2023-04-28T18:56:56.910017Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:23:54.133552Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20Udemy%20-%20Programming%20Using%20C%20and%20Data%20Structures%20From%20Basic%20To%20Advanced/~Get%20Your%20Files%20Here%20!" added="2023-04-28T18:56:58.001574Z" modified="2023-04-28T20:23:55.886962Z" visited="2023-04-28T18:56:58.001575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:23:55.886955Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20Udemy%20-%20Programming%20Using%20C%20and%20Data%20Structures%20From%20Basic%20To%20Advanced/~Get%20Your%20Files%20Here%20!/12%20-%20PreProcessor%20Directives" added="2023-04-28T18:57:00.896387Z" modified="2023-04-28T20:23:56.870542Z" visited="2023-04-28T18:57:00.896387Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:23:56.870535Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/CentOS-7-x86_64-DVD-2009" added="2023-04-28T19:19:27.999277Z" modified="2023-04-28T19:19:27.999281Z" visited="2023-04-28T19:19:27.999278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:19:27.999279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Command%20Line%20for%20Creatives" added="2023-04-28T19:19:43.970179Z" modified="2023-04-28T19:19:43.970192Z" visited="2023-04-28T19:19:43.970181Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:19:43.970185Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Command%20Line%20for%20Creatives/%5BTutsNode.com%5D%20-%20Command%20Line%20for%20Creatives" added="2023-04-28T19:19:46.482461Z" modified="2023-04-28T19:19:46.482475Z" visited="2023-04-28T19:19:46.482462Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:19:46.482467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Command%20Line%20for%20Creatives/%5BTutsNode.com%5D%20-%20Command%20Line%20for%20Creatives/lesson1.mp4" added="2023-04-28T19:19:51.478010Z" modified="2023-04-28T19:20:15.224104Z" visited="2023-04-28T19:19:51.478010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:20:15.224100Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Command%20Line%20for%20Creatives/%5BTutsNode.com%5D%20-%20Command%20Line%20for%20Creatives/lesson11.mp4" added="2023-04-28T19:20:25.313962Z" modified="2023-04-28T19:20:25.313966Z" visited="2023-04-28T19:20:25.313962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:20:25.313964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/AMM%20-%20Generative%20Themes" added="2023-04-28T19:22:14.984602Z" modified="2023-04-28T19:22:14.984606Z" visited="2023-04-28T19:22:14.984602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:22:14.984604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/AMM%20-%20Generative%20Themes/AMM%20-%20Generative%20Themes.ape" added="2023-04-28T19:22:24.945103Z" modified="2023-04-28T19:22:24.945108Z" visited="2023-04-28T19:22:24.945104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/x-ape"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:22:24.945105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero" added="2023-04-28T19:23:15.564429Z" modified="2023-04-28T19:23:15.564434Z" visited="2023-04-28T19:23:15.564429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:23:15.564431Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero/%5BTutsNode.com%5D%20-%20Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero" added="2023-04-28T19:23:18.980760Z" modified="2023-04-28T19:23:18.980772Z" visited="2023-04-28T19:23:18.980761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:23:18.980766Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero/%5BTutsNode.com%5D%20-%20Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero/1.%20Introduction%20and%20Overview" added="2023-04-28T19:23:20.056334Z" modified="2023-04-28T19:23:20.056349Z" visited="2023-04-28T19:23:20.056335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:23:20.056341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/TRAINING_VIDS/Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero/%5BTutsNode.com%5D%20-%20Linux%20Socket%20Programming%20Hands%20On%20-%20Zero%20to%20Hero/1.%20Introduction%20and%20Overview/1.%20Welcom%20to%20this%20course.mp4" added="2023-04-28T19:23:22.523127Z" modified="2023-04-28T19:23:22.523132Z" visited="2023-04-28T19:23:22.523128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:23:22.523129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BFreeTutorials.Eu%5D%20%5BUDEMY%5D%20Learn%20Socket%20Programming%20in%20C%20from%20Scratch%20-%20%5BFTU%5D/01%20Introduction/001%20Introduction.mp4" added="2023-04-28T19:29:26.268471Z" modified="2023-04-28T19:29:26.268476Z" visited="2023-04-28T19:29:26.268471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:29:26.268473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach" added="2023-04-28T19:29:55.080103Z" modified="2023-04-28T19:29:55.080116Z" visited="2023-04-28T19:29:55.080104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:29:55.080109Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach/%5BTutsNode.net%5D%20-%20C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach" added="2023-04-28T19:29:57.801168Z" modified="2023-04-28T19:29:57.801183Z" visited="2023-04-28T19:29:57.801170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:29:57.801175Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach/%5BTutsNode.net%5D%20-%20C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach/1%20-%20Introduction" added="2023-04-28T19:29:59.106430Z" modified="2023-04-28T19:29:59.106444Z" visited="2023-04-28T19:29:59.106431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:29:59.106436Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach/%5BTutsNode.net%5D%20-%20C%20Programming%20Made%20easy%20for%20Beginners%20Step%20by%20Step%20Approach/1%20-%20Introduction/6%20-%20Programming%20Languages.mp4" added="2023-04-28T19:30:02.627605Z" modified="2023-04-28T19:30:02.627610Z" visited="2023-04-28T19:30:02.627606Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:30:02.627607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_BOOKS" added="2023-04-28T19:42:07.327277Z" modified="2023-04-28T19:43:11.929477Z" visited="2023-04-28T19:42:07.327278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:43:11.929471Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/Orland%20P.%20Math%20for%20Programmers.%203D%20Graphics,...with%20Python%202020%20+%20Code" added="2023-04-28T19:42:54.580446Z" modified="2023-04-28T19:42:54.580451Z" visited="2023-04-28T19:42:54.580446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:42:54.580448Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Qt%20%20A%20C++%20Cross%20Platform%20Application%20Framework" added="2023-04-28T19:43:58.815411Z" modified="2023-04-28T19:43:58.815416Z" visited="2023-04-28T19:43:58.815412Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:43:58.815413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Qt%20%20A%20C++%20Cross%20Platform%20Application%20Framework/1.Overview" added="2023-04-28T19:44:01.013203Z" modified="2023-04-28T19:44:01.013217Z" visited="2023-04-28T19:44:01.013204Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:01.013209Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization" added="2023-04-28T19:44:09.120603Z" modified="2023-04-28T19:44:09.120617Z" visited="2023-04-28T19:44:09.120605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:09.120609Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization" added="2023-04-28T19:44:13.708881Z" modified="2023-04-28T19:44:13.708896Z" visited="2023-04-28T19:44:13.708883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:13.708888Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/combinatorics" added="2023-04-28T19:44:17.429682Z" modified="2023-04-28T19:44:17.429697Z" visited="2023-04-28T19:44:17.429684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:17.429689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/combinatorics/01_basic-counting" added="2023-04-28T19:44:20.165047Z" modified="2023-04-28T19:44:20.165062Z" visited="2023-04-28T19:44:20.165049Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:20.165054Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/combinatorics/01_basic-counting/01_pre-survey-on-hse-online-courses" added="2023-04-28T19:44:23.836500Z" modified="2023-04-28T19:44:23.836515Z" visited="2023-04-28T19:44:23.836502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:23.836507Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/combinatorics/01_basic-counting/02_starting-to-count" added="2023-04-28T19:44:27.829948Z" modified="2023-04-28T19:44:27.829969Z" visited="2023-04-28T19:44:27.829951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:27.829958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/%5BTutsNode.com%5D%20-%20Introduction%20to%20Discrete%20Mathematics%20for%20Computer%20Science%20Specialization/combinatorics/01_basic-counting/02_starting-to-count/01_why-counting.mp4" added="2023-04-28T19:44:30.381313Z" modified="2023-04-28T19:44:30.381318Z" visited="2023-04-28T19:44:30.381314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:44:30.381316Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/Math%20Complete" added="2023-04-28T19:48:49.596291Z" modified="2023-04-28T19:48:49.596295Z" visited="2023-04-28T19:48:49.596292Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:48:49.596293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/MATH%20MATHEMATICS%20BOOK%20COLLECTION" added="2023-04-28T19:48:54.066616Z" modified="2023-04-28T19:48:54.066629Z" visited="2023-04-28T19:48:54.066617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:48:54.066622Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/MATH%20MATHEMATICS%20BOOK%20COLLECTION/ALL%20MATH%20BOOKS%20CATEGORISED" added="2023-04-28T19:48:57.018700Z" modified="2023-04-28T19:48:57.018714Z" visited="2023-04-28T19:48:57.018701Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:48:57.018706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/MATH%20MATHEMATICS%20BOOK%20COLLECTION/MY%20MATH%20BOOKs%20COLLECTION" added="2023-04-28T19:49:00.436664Z" modified="2023-04-28T19:49:00.436677Z" visited="2023-04-28T19:49:00.436665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:49:00.436670Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/MISCELLANEOUS_FILES/MathBooks" added="2023-04-28T19:49:07.121029Z" modified="2023-04-28T19:49:07.121042Z" visited="2023-04-28T19:49:07.121030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T19:49:07.121034Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/2023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/%5BTutsNode.net%5D%20-%202023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/1%20-%20Basics%20of%20C%20language" added="2023-04-28T20:23:33.061217Z" modified="2023-04-28T20:23:33.061242Z" visited="2023-04-28T20:23:33.061219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:23:33.061236Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/2023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/%5BTutsNode.net%5D%20-%202023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/1%20-%20Basics%20of%20C%20language/1%20-%20Comment%20Lines%20in%20C.mp4" added="2023-04-28T20:23:34.734081Z" modified="2023-04-28T20:23:34.734085Z" visited="2023-04-28T20:23:34.734081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:23:34.734083Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Game%20Programming%20in%20C++%20-%20Creating%203D%20Games" added="2023-04-28T20:24:05.629903Z" modified="2023-04-28T20:24:05.629915Z" visited="2023-04-28T20:24:05.629904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2023-04-28T20:24:05.629909Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/openFrameworks" added="2023-04-28T21:25:45.445457Z" modified="2023-04-28T21:25:45.445470Z" visited="2023-04-28T21:25:45.445458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T21:25:45.445463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/2023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/%5BTutsNode.net%5D%20-%202023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/3%20-%20Functions%20in%20C" added="2023-04-29T01:07:26.684869Z" modified="2023-04-29T01:07:26.684873Z" visited="2023-04-29T01:07:26.684869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T01:07:26.684871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/2023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/%5BTutsNode.net%5D%20-%202023%20C%20Programming%20Bootcamp%20The%20Complete%20C%20Language%20Course/3%20-%20Functions%20in%20C/16%20-%20Categories%20of%20functions.mp4" added="2023-04-29T01:07:28.507436Z" modified="2023-04-29T01:07:28.507442Z" visited="2023-04-29T01:07:28.507437Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T01:07:28.507440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced" added="2023-04-29T10:01:19.699308Z" modified="2023-04-29T10:08:21.433742Z" visited="2023-04-29T10:01:19.699309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:08:21.433739Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/1.%20Introduction" added="2023-04-29T10:01:21.217975Z" modified="2023-04-29T10:01:21.217980Z" visited="2023-04-29T10:01:21.217976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:01:21.217977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/1.%20Introduction/1.%20Introduction.mp4" added="2023-04-29T10:01:24.050588Z" modified="2023-04-29T10:01:24.050593Z" visited="2023-04-29T10:01:24.050589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:01:24.050591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/10.%20String%20in%20C++" added="2023-04-29T10:01:50.282235Z" modified="2023-04-29T10:01:50.282239Z" visited="2023-04-29T10:01:50.282235Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:01:50.282237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/10.%20String%20in%20C++/11.%20Erasing%20a%20portion%20of%20string..mp4" added="2023-04-29T10:01:53.945839Z" modified="2023-04-29T10:01:53.945844Z" visited="2023-04-29T10:01:53.945840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:01:53.945842Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20Udemy%20-%20Programming%20Using%20C%20and%20Data%20Structures%20From%20Basic%20To%20Advanced/~Get%20Your%20Files%20Here%20!/7%20-%20Working%20with%20Arrays/25%20-%20Arrays%20as%20Function%20Parameters%20English.vtt" added="2023-04-29T10:05:25.798215Z" modified="2023-04-29T10:05:34.343363Z" visited="2023-04-29T10:05:25.798215Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T10:05:34.343361Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/%5BTutsNode.com%5D%20-%20C++%20programming%20step-by-step%20From%20Beginner%20to%20Advanced/2.%20How%20to%20use%20different%20IDE%20to%20write,%20compile%20and%20execute%20C++%20programs" added="2023-04-29T10:08:25.073865Z" modified="2023-04-29T10:08:25.073869Z" visited="2023-04-29T10:08:25.073865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:08:25.073867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads" added="2023-04-29T10:09:57.483613Z" modified="2023-04-29T10:09:57.483618Z" visited="2023-04-29T10:09:57.483614Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:09:57.483615Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20CMake%20Best%20Practices%20-%20Discover%20proven%20techniques%20for%20creating%20and%20maintaining%20programming%20projects%20with%20CMake" added="2023-04-29T10:14:42.941990Z" modified="2023-04-29T10:14:42.941995Z" visited="2023-04-29T10:14:42.941991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:14:42.941992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5B%20DevCourseWeb.com%20%5D%20CMake%20Best%20Practices%20-%20Discover%20proven%20techniques%20for%20creating%20and%20maintaining%20programming%20projects%20with%20CMake/~Get%20Your%20Files%20Here%20!" added="2023-04-29T10:14:44.385409Z" modified="2023-04-29T10:14:44.385414Z" visited="2023-04-29T10:14:44.385410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:14:44.385411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BNulledPremium.com%5D%20Professional%20CMake" added="2023-04-29T10:14:52.674975Z" modified="2023-04-29T10:14:52.674980Z" visited="2023-04-29T10:14:52.674976Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:14:52.674977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond" added="2023-04-29T10:15:01.898825Z" modified="2023-04-29T10:15:01.898830Z" visited="2023-04-29T10:15:01.898826Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:01.898827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond/%5BTutsNode.com%5D%20-%20Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond" added="2023-04-29T10:15:03.537724Z" modified="2023-04-29T10:15:03.537729Z" visited="2023-04-29T10:15:03.537725Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:03.537727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond/%5BTutsNode.com%5D%20-%20Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond/01%20-%20Introduction" added="2023-04-29T10:15:04.985477Z" modified="2023-04-29T10:15:04.985481Z" visited="2023-04-29T10:15:04.985477Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:04.985479Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond/%5BTutsNode.com%5D%20-%20Beginning%20C++%20Programming%20-%20From%20Beginner%20to%20Beyond/01%20-%20Introduction/003%20Modern%20C++%20and%20the%20%20C++%20Standard.mp4" added="2023-04-29T10:15:08.106219Z" modified="2023-04-29T10:15:08.106223Z" visited="2023-04-29T10:15:08.106220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:08.106221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/xfce4-terminal" added="2023-04-29T10:27:32.967506Z" modified="2023-04-29T10:27:32.967511Z" visited="2023-04-29T10:27:32.967507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-keyboard-settings" exec="&apos;xfce4-keyboard-settings %u&apos;" modified="2023-04-29T10:27:32.967508Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
