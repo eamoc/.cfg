@@ -2,14 +2,10 @@
 " ---------------------------------------plugins----------------------------------------------------
 call plug#begin($VIM_PLUGINS_DIR)
 	Plug 'altercation/vim-colors-solarized'
-	Plug 'vim-airline/vim-airline'
-	Plug 'vim-airline/vim-airline-themes'
+"	Plug 'vim-airline/vim-airline'
+"	Plug 'vim-airline/vim-airline-themes'
 "	Plug 'ctrlpvim/ctrlp.vim'
 	Plug 'neoclide/coc.nvim', {'branch': 'release'}
-"	Plug 'google/vim-maktaba'
-"	Plug 'google/vim-codefmt'
-"	Plug 'google/vim-glaive'
-"	Plug 'Valloric/YouCompleteMe'
 call plug#end()
 
 
@@ -37,8 +33,6 @@ let airline#extensions#coc#stl_format_warn = '%C(L%L)'			" change the warning fo
 
 
 "=== Conqueror of Completion
-set encoding=utf-8							" May need for Vim (not Neovim) since coc.nvim calculates byte offset by count
-									" utf-8 byte sequence
 
 " Some servers have issues with backup files, see #649
 set nobackup

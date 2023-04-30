@@ -68,8 +68,10 @@ libcurl-devel
 libfreeglut
 libfreeglut-devel
 libopenal-devel
+librsvg-utils
 libsndfile-devel
 libsndfile-progs
+libstk-devel
 lightdm
 lightdm-gtk3-greeter
 lvm2
@@ -86,6 +88,7 @@ nerd-fonts
 nethogs
 network-manager-applet
 nodejs
+notepadqq
 numactl
 opencv
 paleta
@@ -113,9 +116,16 @@ shellcheck
 socklog
 socklog-void
 sox
+speedtest-cli
 starship
+stk
+stk-examples
 tango-icon-theme
+tectonic
 terminus-font
+texlab
+texlive-PythonTeX
+texlive-latexextra
 uriparser
 uriparser-devel
 vim-colorschemes

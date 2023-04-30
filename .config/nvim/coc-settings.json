@@ -1,34 +1,4 @@
 "languageserver": {
-  "bash": {
-    "command": "bash-language-server",
-    "args": ["start"],
-    "filetypes": ["sh"]
-  }
-}
-
-"languageserver": {
-  "cmake": {
-    "command": "cmake-language-server",
-    "filetypes": ["cmake"],
-    "rootPatterns": [
-      "build/"
-    ],
-    "initializationOptions": {
-      "buildDirectory": "build"
-    }
-  }
-}
-
-"languageserver": {
-  "clangd": {
-    "path": "/usr/bin/clangd	
-    "command": "clangd",
-    "rootPatterns": ["compile_flags.txt", "compile_commands.json"],
-    "filetypes": ["c", "cc", "cpp", "c++", "objc", "objcpp"]
-  }
-}
-
-"languageserver": {
   "ccls": {
     "command": "ccls",
     "filetypes": ["c", "cc", "cpp", "c++", "objc", "objcpp"],
@@ -38,5 +8,13 @@
           "directory": "/tmp/ccls"
         }
       }
+  }
+}
+
+"languageserver": {
+  "clangd": {
+    "command": "clangd",
+    "rootPatterns": ["compile_flags.txt", "compile_commands.json"],
+    "filetypes": ["c", "cc", "cpp", "c++", "objc", "objcpp"]
   }
 }

@@ -23,6 +23,9 @@ alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo
 #Show the time on the command line
 alias t='date | awk "{print \$5}"'
 
+# stream output to tmp file and output same to standard output.
+alias dmp='> $MYFILES\tmpfile && cat $MYFILES\tmpfile'
+
 #clear Screen
 alias c='clear'
 
@@ -90,6 +93,9 @@ alias cfgp='cfg push'
 alias £s='nvim $HOME/.config/scripts/'
 alias %s='cd $HOME/.config/scripts/'
 
+# Go to My files
+alias %mf='cd $MYFILES'
+
 #Show the code directory
 alias £c='nvim $DEV_PROJECT_DIR'
 alias %c='cd $DEV_PROJECT_DIR'
@@ -128,7 +134,7 @@ alias pdf='qpdfview'
 #vim shortcuts
 alias v='nvim'
 alias £ev='v $HOME/.config/nvim/init.vim'
-alias £pc='v $HOME/.config/nvim/plugin-config.vim'
+alias £ep='v $HOME/.config/nvim/plugin-config.vim'
 alias +vc='cd $HOME/mYsTuFf/code/ && nvim'
 
 #gdb shortcuts

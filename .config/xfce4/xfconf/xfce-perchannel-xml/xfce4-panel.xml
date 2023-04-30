@@ -6,7 +6,6 @@
     <value type="int" value="1"/>
     <value type="int" value="2"/>
     <value type="int" value="3"/>
-    <value type="int" value="4"/>
     <value type="int" value="5"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
@@ -75,18 +74,6 @@
         <value type="double" value="0"/>
       </property>
     </property>
-    <property name="panel-4" type="empty">
-      <property name="position" type="string" value="p=9;x=1287;y=19"/>
-      <property name="size" type="uint" value="36"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="2"/>
-      </property>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="enable-struts" type="bool" value="false"/>
-      <property name="autohide-behavior" type="uint" value="1"/>
-      <property name="enter-opacity" type="uint" value="100"/>
-      <property name="leave-opacity" type="uint" value="100"/>
-    </property>
     <property name="panel-5" type="empty">
       <property name="position" type="string" value="p=12;x=1303;y=1414"/>
       <property name="size" type="uint" value="36"/>
@@ -112,8 +99,10 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-7" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/"/>
+      <property name="base-directory" type="string" value="/home/eamoc"/>
       <property name="hidden-files" type="bool" value="true"/>
+      <property name="new-folder" type="bool" value="false"/>
+      <property name="new-document" type="bool" value="false"/>
     </property>
     <property name="plugin-8" type="string" value="thunar-tpa"/>
     <property name="plugin-23" type="string" value="launcher">
@@ -166,9 +155,6 @@
       <property name="mode" type="uint" value="0"/>
       <property name="show-seconds" type="bool" value="false"/>
     </property>
-    <property name="plugin-2" type="string" value="pager">
-      <property name="rows" type="uint" value="1"/>
-    </property>
     <property name="plugin-4" type="string" value="tasklist">
       <property name="show-labels" type="bool" value="false"/>
       <property name="show-handle" type="bool" value="false"/>
@@ -176,7 +162,7 @@
     </property>
     <property name="plugin-5" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1613;firefox.instance16384;firefox.instance2740;firefox.instance28221"/>
+      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1613;firefox.instance16384;firefox.instance2740;firefox.instance28221;firefox.instance3345"/>
     </property>
     <property name="plugin-6" type="string" value="netload"/>
     <property name="plugin-9" type="string" value="notification-plugin"/>

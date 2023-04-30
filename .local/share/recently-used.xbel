@@ -179,12 +179,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-29T10:15:44.413471Z" visited="2023-04-25T16:01:58.154543Z">
+  <bookmark href="file:///home/eamoc/mYsTuFf" added="2023-04-25T16:01:58.154542Z" modified="2023-04-29T18:24:03.110030Z" visited="2023-04-25T16:01:58.154543Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:15:44.413469Z" count="11"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T18:24:03.110023Z" count="12"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -319,12 +319,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local" added="2023-04-25T17:01:39.117686Z" modified="2023-04-28T13:20:04.754175Z" visited="2023-04-25T17:01:39.117687Z">
+  <bookmark href="file:///home/eamoc/.local" added="2023-04-25T17:01:39.117686Z" modified="2023-04-30T14:04:35.450733Z" visited="2023-04-25T17:01:39.117687Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T13:20:04.754171Z" count="6"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:04:35.450731Z" count="7"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -443,12 +443,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM" added="2023-04-25T20:25:40.528968Z" modified="2023-04-26T12:06:33.663420Z" visited="2023-04-25T20:25:40.528969Z">
+  <bookmark href="file:///run/media/eamoc/01b365cd-b920-4610-a952-cc2aaa344527/_VIM" added="2023-04-25T20:25:40.528968Z" modified="2023-04-29T21:52:27.199665Z" visited="2023-04-25T20:25:40.528969Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-26T12:06:33.663416Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T21:52:27.199660Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2352,6 +2352,506 @@
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
           <bookmark:application name="xfce4-keyboard-settings" exec="&apos;xfce4-keyboard-settings %u&apos;" modified="2023-04-29T10:27:32.967508Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/coc-settings.json" added="2023-04-29T16:23:27.527568Z" modified="2023-04-29T16:23:39.259412Z" visited="2023-04-29T16:23:27.527568Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T16:23:27.527569Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T16:23:39.259410Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/coc-settings.OLD" added="2023-04-29T16:25:01.986268Z" modified="2023-04-29T16:25:01.986271Z" visited="2023-04-29T16:25:01.986268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T16:25:01.986269Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/code" added="2023-04-29T18:24:07.627721Z" modified="2023-04-29T18:24:07.627733Z" visited="2023-04-29T18:24:07.627723Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T18:24:07.627727Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/code/testOF1" added="2023-04-29T18:24:12.156870Z" modified="2023-04-29T18:24:12.156882Z" visited="2023-04-29T18:24:12.156871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T18:24:12.156876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/test" added="2023-04-29T20:04:49.136164Z" modified="2023-04-29T20:04:49.136177Z" visited="2023-04-29T20:04:49.136166Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:04:49.136170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/test/parts.vimspec" added="2023-04-29T20:04:56.609269Z" modified="2023-04-29T20:05:04.331336Z" visited="2023-04-29T20:04:56.609270Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T20:05:04.331330Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/plugin" added="2023-04-29T20:05:15.383438Z" modified="2023-04-29T20:05:15.383451Z" visited="2023-04-29T20:05:15.383440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:05:15.383444Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/plugin/airline.vim" added="2023-04-29T20:05:19.223618Z" modified="2023-04-29T20:07:53.600722Z" visited="2023-04-29T20:05:19.223619Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T20:07:53.600700Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload" added="2023-04-29T20:08:02.457342Z" modified="2023-04-29T20:08:02.457355Z" visited="2023-04-29T20:08:02.457344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:08:02.457349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline" added="2023-04-29T20:08:06.393470Z" modified="2023-04-29T20:08:06.393482Z" visited="2023-04-29T20:08:06.393471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:08:06.393475Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/extensions" added="2023-04-29T20:08:17.539044Z" modified="2023-04-29T20:08:17.539057Z" visited="2023-04-29T20:08:17.539046Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:08:17.539050Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/extensions/coc.vim" added="2023-04-29T20:08:30.412908Z" modified="2023-04-29T20:08:46.752616Z" visited="2023-04-29T20:08:30.412908Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T20:08:46.752611Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/formatter" added="2023-04-29T20:08:55.985366Z" modified="2023-04-29T20:08:55.985379Z" visited="2023-04-29T20:08:55.985367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:08:55.985372Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/themes" added="2023-04-29T20:09:01.160103Z" modified="2023-04-29T20:09:01.160107Z" visited="2023-04-29T20:09:01.160104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T20:09:01.160105Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/themes/dark.vim" added="2023-04-29T20:09:05.074552Z" modified="2023-04-29T20:10:00.857193Z" visited="2023-04-29T20:09:05.074552Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T20:10:00.857188Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.config/nvim/plugged/vim-airline/autoload/airline/highlighter.vim" added="2023-04-29T20:10:13.284328Z" modified="2023-04-29T20:10:40.681312Z" visited="2023-04-29T20:10:13.284329Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 249:24;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-29T20:10:40.681307Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Mastering%20Vim/03-Learn%20Your%20Alphabet.mp4" added="2023-04-29T21:44:34.008925Z" modified="2023-04-29T21:44:34.008930Z" visited="2023-04-29T21:44:34.008926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T21:44:34.008928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vids/1_Venture%20Into%20Vim" added="2023-04-29T21:53:02.079379Z" modified="2023-04-29T21:53:02.079392Z" visited="2023-04-29T21:53:02.079380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T21:53:02.079385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/Vids/2_Vim%20for%20Advanced%20Users" added="2023-04-29T21:53:26.902275Z" modified="2023-04-29T21:53:26.902293Z" visited="2023-04-29T21:53:26.902278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T21:53:26.902284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Empty-Butterfly-White-vr3-Linux.zip" added="2023-04-30T13:19:41.612961Z" modified="2023-04-30T13:19:41.612969Z" visited="2023-04-30T13:19:41.612962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T13:19:41.612965Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/MOYASH-Yellow-Cursor-vr4-Linux.zip" added="2023-04-30T13:20:08.024799Z" modified="2023-04-30T13:20:08.024807Z" visited="2023-04-30T13:20:08.024799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T13:20:08.024803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/MOYASH-Black-Cursor-vr4-Linux.zip" added="2023-04-30T13:20:18.309083Z" modified="2023-04-30T13:20:18.309108Z" visited="2023-04-30T13:20:18.309084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T13:20:18.309093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/MOYASH-White-Cursor-vr4-Linux.zip" added="2023-04-30T13:20:28.144925Z" modified="2023-04-30T13:20:28.144934Z" visited="2023-04-30T13:20:28.144927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T13:20:28.144931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons" added="2023-04-30T14:04:38.134070Z" modified="2023-04-30T14:04:38.134083Z" visited="2023-04-30T14:04:38.134072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:04:38.134076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/Empty-Butterfly-White-vr3-Linux" added="2023-04-30T14:04:40.491305Z" modified="2023-04-30T14:05:30.646831Z" visited="2023-04-30T14:04:40.491305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:05:30.646826Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/Empty-Butterfly-White-vr3-Linux/Empty-Butterfly-White" added="2023-04-30T14:04:44.772738Z" modified="2023-04-30T14:04:44.772745Z" visited="2023-04-30T14:04:44.772739Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:04:44.772741Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/Empty-Butterfly-White-vr3-Linux/Empty-Butterfly-White/ReadMe.txt" added="2023-04-30T14:04:51.866490Z" modified="2023-04-30T14:05:03.508802Z" visited="2023-04-30T14:04:51.866491Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:04:51.866493Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-04-30T14:05:03.508797Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/Empty-Butterfly-White-vr3-Linux/Empty-Butterfly-White/Empty-Butterfly-White-vr3" added="2023-04-30T14:05:05.623672Z" modified="2023-04-30T14:05:05.623685Z" visited="2023-04-30T14:05:05.623673Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:05:05.623678Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/Empty-Butterfly-White-vr3-Linux/Find%20Me%20Here.png" added="2023-04-30T14:05:39.244746Z" modified="2023-04-30T14:05:39.244750Z" visited="2023-04-30T14:05:39.244747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:05:39.244748Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-Black-Cursor-vr4-Linux" added="2023-04-30T14:05:55.423657Z" modified="2023-04-30T14:06:26.399822Z" visited="2023-04-30T14:05:55.423658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:06:26.399817Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-Black-Cursor-vr4-Linux/MOYASH-Black" added="2023-04-30T14:05:56.863552Z" modified="2023-04-30T14:06:29.287809Z" visited="2023-04-30T14:05:56.863553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:06:29.287804Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-Black-Cursor-vr4-Linux/MOYASH-Black/MOYASH-Black-Cursor-vr4" added="2023-04-30T14:05:58.415781Z" modified="2023-04-30T14:06:33.823906Z" visited="2023-04-30T14:05:58.415783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:06:33.823901Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-White-Cursor-vr4-Linux" added="2023-04-30T14:06:44.752058Z" modified="2023-04-30T14:06:44.752071Z" visited="2023-04-30T14:06:44.752060Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:06:44.752064Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-White-Cursor-vr4-Linux/MOYASH-White" added="2023-04-30T14:06:45.984289Z" modified="2023-04-30T14:06:45.984301Z" visited="2023-04-30T14:06:45.984291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:06:45.984295Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-Yellow-Cursor-vr4-Linux" added="2023-04-30T14:07:03.832181Z" modified="2023-04-30T14:07:03.832198Z" visited="2023-04-30T14:07:03.832183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:07:03.832190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/.local/.icons/MOYASH-Yellow-Cursor-vr4-Linux/MOYASH-Yellow" added="2023-04-30T14:07:06.440152Z" modified="2023-04-30T14:07:06.440165Z" visited="2023-04-30T14:07:06.440154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:07:06.440159Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Breeze-Round-Chameleon-Light-Icons.tar.gz" added="2023-04-30T14:29:11.944017Z" modified="2023-04-30T14:29:11.944023Z" visited="2023-04-30T14:29:11.944018Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:29:11.944021Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Gently-Color-Light-Icons.tar.gz" added="2023-04-30T14:29:22.293867Z" modified="2023-04-30T14:29:22.293877Z" visited="2023-04-30T14:29:22.293869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:29:22.293873Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Relax-Dark-Icons.tar.gz" added="2023-04-30T14:30:13.338483Z" modified="2023-04-30T14:30:13.338496Z" visited="2023-04-30T14:30:13.338486Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:30:13.338490Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Uniform-icons.tar.gz" added="2023-04-30T14:30:46.995829Z" modified="2023-04-30T14:30:46.995846Z" visited="2023-04-30T14:30:46.995831Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:30:46.995839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Uniform+%20icons.tar.gz" added="2023-04-30T14:31:03.159790Z" modified="2023-04-30T14:31:03.159817Z" visited="2023-04-30T14:31:03.159791Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:31:03.159810Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Acid-all.tar.xz" added="2023-04-30T14:32:07.788624Z" modified="2023-04-30T14:32:07.788637Z" visited="2023-04-30T14:32:07.788626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:32:07.788630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/clarity-icon-theme_0.5.1.tar.gz" added="2023-04-30T14:32:24.103138Z" modified="2023-04-30T14:32:24.103146Z" visited="2023-04-30T14:32:24.103139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:32:24.103142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/Besgnulinux-own-all.zip" added="2023-04-30T14:34:14.959269Z" modified="2023-04-30T14:34:14.959305Z" visited="2023-04-30T14:34:14.959272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-30T14:34:14.959278Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/icons/Colloid-icon-theme" added="2023-04-30T14:44:27.259734Z" modified="2023-04-30T14:54:16.675413Z" visited="2023-04-30T14:44:27.259736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:54:16.675410Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/icons/Relax-Dark-Icons" added="2023-04-30T14:54:52.595381Z" modified="2023-04-30T14:54:52.595387Z" visited="2023-04-30T14:54:52.595382Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:54:52.595384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/mYsTuFf/icons/Reversal-icon-theme" added="2023-04-30T14:55:04.249727Z" modified="2023-04-30T14:55:04.249740Z" visited="2023-04-30T14:55:04.249729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:55:04.249733Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
