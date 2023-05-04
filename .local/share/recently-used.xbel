@@ -23,12 +23,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local/share" added="2023-04-22T18:05:34.155669Z" modified="2023-04-28T13:20:09.314935Z" visited="2023-04-22T18:05:34.155670Z">
+  <bookmark href="file:///home/eamoc/.local/share" added="2023-04-22T18:05:34.155669Z" modified="2023-05-04T16:11:09.669022Z" visited="2023-04-22T18:05:34.155670Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T13:20:09.314930Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:11:09.669018Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -319,12 +319,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local" added="2023-04-25T17:01:39.117686Z" modified="2023-04-30T14:04:35.450733Z" visited="2023-04-25T17:01:39.117687Z">
+  <bookmark href="file:///home/eamoc/.local" added="2023-04-25T17:01:39.117686Z" modified="2023-05-04T16:11:08.133759Z" visited="2023-04-25T17:01:39.117687Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-30T14:04:35.450731Z" count="7"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:11:08.133757Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1264,32 +1264,32 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local/share/xfce4" added="2023-04-28T16:26:45.432989Z" modified="2023-04-28T16:26:45.433001Z" visited="2023-04-28T16:26:45.432990Z">
+  <bookmark href="file:///home/eamoc/.local/share/xfce4" added="2023-04-28T16:26:45.432989Z" modified="2023-05-04T16:13:55.473068Z" visited="2023-04-28T16:26:45.432990Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T16:26:45.432995Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:13:55.473063Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local/share/xfce4/terminal" added="2023-04-28T16:26:46.864693Z" modified="2023-04-28T16:26:46.864705Z" visited="2023-04-28T16:26:46.864695Z">
+  <bookmark href="file:///home/eamoc/.local/share/xfce4/terminal" added="2023-04-28T16:26:46.864693Z" modified="2023-05-04T16:14:16.848902Z" visited="2023-04-28T16:26:46.864695Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T16:26:46.864699Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:14:16.848897Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.local/share/xfce4/terminal/colorschemes" added="2023-04-28T16:26:48.003201Z" modified="2023-04-28T16:26:48.003208Z" visited="2023-04-28T16:26:48.003202Z">
+  <bookmark href="file:///home/eamoc/.local/share/xfce4/terminal/colorschemes" added="2023-04-28T16:26:48.003201Z" modified="2023-05-04T16:14:38.609242Z" visited="2023-04-28T16:26:48.003202Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-28T16:26:48.003204Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:14:38.609236Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -8,3 +8,4 @@ text/x-log=org.xfce.mousepad.desktop;
 application/x-shellscript=org.xfce.mousepad.desktop;
 text/plain=org.xfce.mousepad.desktop;
 application/x-theme=org.xfce.mousepad.desktop;
+text/markdown=firefox.desktop;

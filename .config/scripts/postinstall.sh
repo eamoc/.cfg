@@ -64,6 +64,7 @@ xfce4Install()
         done < "$input"
 
 	sudo cp -rv $HOME/.config/xdg /etc/
+#	rm -rf $HOME/.config.xfce4
 }
 
 createDirectories()
@@ -243,11 +244,11 @@ dbus_SvConfig()
 
 lightdm_SvConfig()
 {
-#	if [[ -d /etc/sv/agetty-tty1 ]] ; then
-#		sudo mv -v /etc/sv/agetty-tty1 /etc/sv/agetty-autologin-tty1
+	if [[ -d /etc/sv/agetty-tty1 ]] ; then
+		sudo rm -rfv /etc/sv/agetty-tty1 
 #		sudo cp -v $HOME/.config/AGETTY_AUTOLOGIN_CONF /etc/sv/agetty-autologin-tty1/conf 
 #		printf "Created the autologin terminal on tty1 \n\n"
-#	fi
+	fi
 
 	if [[ -h /var/service/lightdm ]] ; then
 		sudo rm /var/service/lightdm
@@ -271,7 +272,7 @@ dconfConfig()
 	cp -v $HOME/.conf/DCONF_USER $HOME/dconf/user
 }
 
-getEssentials
+#getEssentials
 #packageInstall
 #createDirectories
 #firewallConfig
@@ -285,4 +286,4 @@ getEssentials
 #dconfConfig
 #lightdm_SvConfig
 #sourceBashrc
-#dbus_SvConfig
+dbus_SvConfig
