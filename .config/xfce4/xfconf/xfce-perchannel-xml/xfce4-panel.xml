@@ -32,7 +32,7 @@
       <property name="mode" type="uint" value="1"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="enable-struts" type="bool" value="false"/>
-      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="21"/>
     </property>
     <property name="panel-2" type="empty">
       <property name="position" type="string" value="p=4;x=2535;y=1271"/>
@@ -53,7 +53,7 @@
       <property name="autohide-behavior" type="uint" value="0"/>
     </property>
     <property name="panel-3" type="empty">
-      <property name="position" type="string" value="p=1;x=2493;y=152"/>
+      <property name="position" type="string" value="p=1;x=2493;y=239"/>
       <property name="size" type="uint" value="53"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="39"/>
@@ -85,8 +85,9 @@
       <property name="position-locked" type="bool" value="true"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="enable-struts" type="bool" value="false"/>
-      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="20"/>
       <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="enter-opacity" type="uint" value="100"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -162,7 +163,7 @@
     </property>
     <property name="plugin-5" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1613;firefox.instance16384;firefox.instance2740;firefox.instance28221;firefox.instance3345"/>
+      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance1276;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1398;firefox.instance1461;firefox.instance1568;firefox.instance1613;firefox.instance16384;firefox.instance25676;firefox.instance2740;firefox.instance28221;firefox.instance28483;firefox.instance3121;firefox.instance3345"/>
     </property>
     <property name="plugin-6" type="string" value="netload"/>
     <property name="plugin-9" type="string" value="notification-plugin"/>
@@ -178,12 +179,16 @@
     </property>
     <property name="plugin-12" type="string" value="systray">
       <property name="known-legacy-items" type="array">
-        <value type="string" value="networkmanager applet"/>
         <value type="string" value="networking disabled"/>
-        <value type="string" value="qbittorrent"/>
+        <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
         <value type="string" value="qBittorrent"/>
+        <value type="string" value="dropbox"/>
+      </property>
+      <property name="hidden-legacy-items" type="array">
+      </property>
+      <property name="hidden-items" type="array">
       </property>
     </property>
   </property>

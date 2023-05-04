@@ -2,6 +2,12 @@
 ################################################### Tips and Tricks ##########################################################################################
 
 #find examples
-
+find <startingdirectory> <options> <search term>
 find . -name *.srt -type f -delete					"Recursively find all files that are regular files (-f), that match an extension and delete
 sed -i 's/old-text/new-text/g' input.txt				"Find and replace a word in a file
+
+#grep examples
+grep -R 'Eamonn Costello' ./ 						"Recursively look through the current directory for files containing 'Eamonn Costello'
+
+
+du -shc									"get disk usage for the current directory, -s, summary, -h human readable, -c grand total

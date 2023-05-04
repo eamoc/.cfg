@@ -8,8 +8,8 @@
 add_newline = false
 
 # Disable the package module, hiding it from the prompt completely
-[package]
-disabled = true
+#[package]
+#disabled = true
 
 
 
@@ -22,3 +22,7 @@ error_symbol = "[→](#9e4612)"
 truncation_length = 100
 truncate_to_repo = false
 
+
+# Disable the package module, hiding it from the prompt completely
+[package]
+disabled = true

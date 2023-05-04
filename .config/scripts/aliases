@@ -97,8 +97,8 @@ alias %s='cd $HOME/.config/scripts/'
 alias %mf='cd $MYFILES'
 
 #Show the code directory
-alias £c='nvim $DEV_PROJECT_DIR'
-alias %c='cd $DEV_PROJECT_DIR'
+alias £c='nvim $DEV'
+alias %c='cd $DEV'
 
 #Open postinstall.sh in vim
 alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
@@ -121,13 +121,16 @@ alias £ss='nvim ~/.config/starship.toml'
 #edit the xinitrc file
 alias £xi='nvim $HOME/.xinitrc'
 
+#edit the Tips n Tricks file
+alias £tt='nvim $HOME/.config/TIPS_N_TRICKS'
+
 #check status of all services
 alias svst='sudo sv status /var/service/*' 
 
 #openFrameworks. Specify a directory name 
-alias %dv='cd $DEV_PROJECT_DIR'
-alias +of='cd $DEV_PROJECT_DIR && $HOME/.config/scripts/newOFProject.sh'
+alias +of='cd $DEV && $HOME/.config/scripts/newOFProject.sh'
 alias %ofx='cd $HOME/openFrameworks/examples/'
+
 #open the pdfviewer
 alias pdf='qpdfview'
 
@@ -135,13 +138,12 @@ alias pdf='qpdfview'
 alias v='nvim'
 alias £ev='v $HOME/.config/nvim/init.vim'
 alias £ep='v $HOME/.config/nvim/plugin-config.vim'
-alias +vc='cd $HOME/mYsTuFf/code/ && nvim'
 
-#gdb shortcuts
-alias +gdb='cd $HOME/mYsTuFf/codeProjects && gdb'
+#tmux shortcuts
+alias £et='v $HOME/.config/tmux/tmux.conf'
+
 #ranger
 alias r='ranger'
-
 
 #Start hugo test server in draft mode for $CURRENT_BLOG
 alias +hgd='cd ~/blogResources/$CURRENT_BLOG && hugo server -D'
