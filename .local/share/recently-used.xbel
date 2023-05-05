@@ -88,22 +88,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/id_ed25519.pub" added="2023-04-23T14:21:37.992064Z" modified="2023-04-25T15:57:55.944119Z" visited="2023-04-23T14:21:37.992068Z">
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519.pub" added="2023-04-23T14:21:37.992064Z" modified="2023-05-04T16:22:42.042452Z" visited="2023-04-23T14:21:37.992068Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/vnd.ms-publisher"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:57:55.944115Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-05-04T16:22:42.042449Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/id_ed25519" added="2023-04-23T14:21:45.355985Z" modified="2023-04-25T15:58:02.605904Z" visited="2023-04-23T14:21:45.355989Z">
+  <bookmark href="file:///home/eamoc/.ssh/id_ed25519" added="2023-04-23T14:21:45.355985Z" modified="2023-05-04T16:22:48.891166Z" visited="2023-04-23T14:21:45.355989Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:02.605896Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-05-04T16:22:48.891160Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -118,22 +118,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/known_hosts.old" added="2023-04-23T14:22:16.177332Z" modified="2023-04-25T15:58:13.830768Z" visited="2023-04-23T14:22:16.177334Z">
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts.old" added="2023-04-23T14:22:16.177332Z" modified="2023-05-04T16:22:56.986365Z" visited="2023-04-23T14:22:16.177334Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/x-trash"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:13.830762Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-05-04T16:22:56.986362Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-04-25T16:18:47.587653Z" visited="2023-04-23T14:22:29.678980Z">
+  <bookmark href="file:///home/eamoc/.ssh/known_hosts" added="2023-04-23T14:22:29.678974Z" modified="2023-05-04T16:23:07.209698Z" visited="2023-04-23T14:22:29.678980Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-04-25T15:58:20.201055Z" count="4"/>
+          <bookmark:application name="Firefox" exec="&apos;Firefox %u&apos;" modified="2023-05-04T16:23:07.209690Z" count="6"/>
           <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:18:47.587651Z" count="2"/>
         </bookmark:applications>
       </metadata>
@@ -239,12 +239,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///" added="2023-04-25T16:04:28.310917Z" modified="2023-04-25T16:04:28.310928Z" visited="2023-04-25T16:04:28.310918Z">
+  <bookmark href="file:///" added="2023-04-25T16:04:28.310917Z" modified="2023-05-04T22:09:43.738210Z" visited="2023-04-25T16:04:28.310918Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:04:28.310923Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:09:43.738205Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -289,12 +289,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/.ssh" added="2023-04-25T16:25:05.126536Z" modified="2023-04-25T16:25:05.126545Z" visited="2023-04-25T16:25:05.126537Z">
+  <bookmark href="file:///home/eamoc/.ssh" added="2023-04-25T16:25:05.126536Z" modified="2023-05-04T16:53:55.165572Z" visited="2023-04-25T16:25:05.126537Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-25T16:25:05.126541Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T16:53:55.165570Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -2194,12 +2194,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Downloads" added="2023-04-29T10:09:57.483613Z" modified="2023-04-29T10:09:57.483618Z" visited="2023-04-29T10:09:57.483614Z">
+  <bookmark href="file:///home/eamoc/Downloads" added="2023-04-29T10:09:57.483613Z" modified="2023-05-04T22:14:31.058062Z" visited="2023-04-29T10:09:57.483614Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-04-29T10:09:57.483615Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:14:31.058060Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3383,6 +3383,225 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-03T19:12:42.368828Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BCourseClub.NET%5D%20Linux%20Academy%20-%20NGINX%20Web%20Server%20Deep%20Dive" added="2023-05-04T22:03:09.714057Z" modified="2023-05-04T22:03:09.714067Z" visited="2023-05-04T22:03:09.714058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:03:09.714062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BCourseClub.NET%5D%20Linux%20Academy%20-%20NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server" added="2023-05-04T22:03:12.918589Z" modified="2023-05-04T22:03:12.918602Z" visited="2023-05-04T22:03:12.918590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:03:12.918595Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BCourseClub.NET%5D%20Linux%20Academy%20-%20NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/02.Basic%20NGINX%20Security" added="2023-05-04T22:03:34.608175Z" modified="2023-05-04T22:03:34.608180Z" visited="2023-05-04T22:03:34.608176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:03:34.608177Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Downloads/%5BCourseClub.NET%5D%20Linux%20Academy%20-%20NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration" added="2023-05-04T22:03:40.357700Z" modified="2023-05-04T22:03:40.357718Z" visited="2023-05-04T22:03:40.357702Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:03:40.357708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc" added="2023-05-04T22:07:11.619232Z" modified="2023-05-04T22:09:47.260137Z" visited="2023-05-04T22:07:11.619233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:09:47.260131Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nginx" added="2023-05-04T22:07:20.035860Z" modified="2023-05-04T22:10:58.091287Z" visited="2023-05-04T22:07:20.035861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:10:58.091283Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nginx/conf.d" added="2023-05-04T22:07:22.846141Z" modified="2023-05-04T22:07:22.846152Z" visited="2023-05-04T22:07:22.846142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:07:22.846146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nginx/conf.d/default.conf" added="2023-05-04T22:07:26.072633Z" modified="2023-05-04T22:15:35.136795Z" visited="2023-05-04T22:07:26.072633Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:07:26.072635Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-04T22:15:35.136790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/mpv" added="2023-05-04T22:09:54.064373Z" modified="2023-05-04T22:09:54.064386Z" visited="2023-05-04T22:09:54.064375Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T22:09:54.064380Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nginx/nginx.conf" added="2023-05-04T22:11:03.391402Z" modified="2023-05-04T22:15:35.127678Z" visited="2023-05-04T22:11:03.391403Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 0:0;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2023-05-04T22:15:35.127672Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration/04.Access%20Control%20with%20HTTP%20Basic%20Auth.mp4" added="2023-05-04T22:17:49.968454Z" modified="2023-05-04T23:06:35.151748Z" visited="2023-05-04T22:17:49.968454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:06:35.151745Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration/03.Error%20Pages.mp4" added="2023-05-04T23:06:20.145789Z" modified="2023-05-04T23:06:20.145794Z" visited="2023-05-04T23:06:20.145790Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:06:20.145791Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/02.Basic%20NGINX%20Security" added="2023-05-04T23:07:09.965823Z" modified="2023-05-04T23:45:58.849224Z" visited="2023-05-04T23:07:09.965824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:45:58.849218Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/02.Basic%20NGINX%20Security/01.Generating%20Self-Signed%20Certificates.mp4" added="2023-05-04T23:07:14.274240Z" modified="2023-05-04T23:07:14.274244Z" visited="2023-05-04T23:07:14.274241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:07:14.274242Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/02.Basic%20NGINX%20Security/02.Configuring%20the%20Host%20for%20SSL_TLS_HTTPS.mp4" added="2023-05-04T23:26:37.280888Z" modified="2023-05-04T23:26:37.280892Z" visited="2023-05-04T23:26:37.280889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:26:37.280890Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites" added="2023-05-04T23:45:47.957068Z" modified="2023-05-04T23:46:02.738546Z" visited="2023-05-04T23:45:47.957068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:46:02.738541Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration" added="2023-05-04T23:45:54.559217Z" modified="2023-05-04T23:45:54.559230Z" visited="2023-05-04T23:45:54.559219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:45:54.559223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites/01.Cleaning%20Up%20URLs.mp4" added="2023-05-04T23:46:24.719342Z" modified="2023-05-05T10:27:38.503677Z" visited="2023-05-04T23:46:24.719342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T10:27:38.503673Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites/02.Redirecting%20All%20Traffic%20to%20HTTPS.mp4" added="2023-05-05T00:00:32.004276Z" modified="2023-05-05T12:48:35.428546Z" visited="2023-05-05T00:00:32.004276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T12:48:35.428543Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules" added="2023-05-05T12:41:22.277460Z" modified="2023-05-05T13:03:11.544055Z" visited="2023-05-05T12:41:22.277461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T13:03:11.544053Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules/01.Overview%20of%20NGINX%20Modules.mp4" added="2023-05-05T13:03:14.539141Z" modified="2023-05-05T13:03:14.539146Z" visited="2023-05-05T13:03:14.539142Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T13:03:14.539143Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

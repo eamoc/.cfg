@@ -81,7 +81,7 @@
         <value type="int" value="4"/>
       </property>
       <property name="mode" type="uint" value="0"/>
-      <property name="length" type="double" value="19.140625"/>
+      <property name="length" type="double" value="1"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="length-adjust" type="bool" value="true"/>
       <property name="enable-struts" type="bool" value="false"/>
@@ -163,7 +163,7 @@
     </property>
     <property name="plugin-5" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance1276;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1398;firefox.instance1461;firefox.instance1568;firefox.instance1613;firefox.instance16384;firefox.instance25676;firefox.instance2740;firefox.instance28221;firefox.instance28483;firefox.instance3121;firefox.instance3345;firefox.instance3625"/>
+      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance11756;firefox.instance1276;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1398;firefox.instance1461;firefox.instance1568;firefox.instance1613;firefox.instance16384;firefox.instance25676;firefox.instance2740;firefox.instance28221;firefox.instance28483;firefox.instance3121;firefox.instance3345;firefox.instance3625"/>
     </property>
     <property name="plugin-6" type="string" value="netload"/>
     <property name="plugin-9" type="string" value="notification-plugin"/>
