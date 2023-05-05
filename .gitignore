@@ -33,4 +33,3 @@ void-packages/
 .local/state/
 .local/share/recently-used.xbel
 .config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
-.config/scripts/aliases
