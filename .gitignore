@@ -32,3 +32,4 @@ lynis.log
 mYsTuFf/
 void-packages/
 .local/state/
+.local/share/recently-used.xbel
