@@ -7,7 +7,6 @@
 .cache/
 .config/Mousepad/
 .config/dconf/
-.config/nginx/
 .config/nvim/plugged/
 .config/pulse/
 .config/tmux/plugins/
