@@ -31,4 +31,4 @@ lynis-report.dat
 lynis.log
 mYsTuFf/
 void-packages/
-
+.local/state/
