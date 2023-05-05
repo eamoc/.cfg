@@ -3546,22 +3546,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites" added="2023-05-04T23:45:47.957068Z" modified="2023-05-04T23:46:02.738546Z" visited="2023-05-04T23:45:47.957068Z">
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites" added="2023-05-04T23:45:47.957068Z" modified="2023-05-05T17:04:31.063091Z" visited="2023-05-04T23:45:47.957068Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:46:02.738541Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:04:31.063086Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration" added="2023-05-04T23:45:54.559217Z" modified="2023-05-04T23:45:54.559230Z" visited="2023-05-04T23:45:54.559219Z">
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration" added="2023-05-04T23:45:54.559217Z" modified="2023-05-05T17:22:55.533095Z" visited="2023-05-04T23:45:54.559219Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-04T23:45:54.559223Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:22:55.533093Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -3576,32 +3576,82 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites/02.Redirecting%20All%20Traffic%20to%20HTTPS.mp4" added="2023-05-05T00:00:32.004276Z" modified="2023-05-05T12:48:35.428546Z" visited="2023-05-05T00:00:32.004276Z">
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/03.NGINX%20Rewrites/02.Redirecting%20All%20Traffic%20to%20HTTPS.mp4" added="2023-05-05T00:00:32.004276Z" modified="2023-05-05T17:04:32.512544Z" visited="2023-05-05T00:00:32.004276Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="video/mp4"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T12:48:35.428543Z" count="3"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:04:32.512542Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules" added="2023-05-05T12:41:22.277460Z" modified="2023-05-05T13:03:11.544055Z" visited="2023-05-05T12:41:22.277461Z">
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules" added="2023-05-05T12:41:22.277460Z" modified="2023-05-05T17:03:59.379998Z" visited="2023-05-05T12:41:22.277461Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T13:03:11.544053Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:03:59.379993Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules/01.Overview%20of%20NGINX%20Modules.mp4" added="2023-05-05T13:03:14.539141Z" modified="2023-05-05T13:03:14.539146Z" visited="2023-05-05T13:03:14.539142Z">
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules/01.Overview%20of%20NGINX%20Modules.mp4" added="2023-05-05T13:03:14.539141Z" modified="2023-05-05T17:04:19.343146Z" visited="2023-05-05T13:03:14.539142Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="video/mp4"/>
         <bookmark:applications>
-          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T13:03:14.539143Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:04:19.343144Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos" added="2023-05-05T17:03:34.950022Z" modified="2023-05-05T17:03:34.950027Z" visited="2023-05-05T17:03:34.950023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:03:34.950024Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive" added="2023-05-05T17:03:42.125491Z" modified="2023-05-05T17:03:42.125499Z" visited="2023-05-05T17:03:42.125493Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:03:42.125495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server" added="2023-05-05T17:03:56.550710Z" modified="2023-05-05T17:03:56.550723Z" visited="2023-05-05T17:03:56.550712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:03:56.550717Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/04.NGINX%20Modules/02.Adding%20Functionality%20to%20NGINX%20with%20Dynamic%20Modules.mp4" added="2023-05-05T17:04:04.185686Z" modified="2023-05-05T17:04:04.185691Z" visited="2023-05-05T17:04:04.185687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:04:04.185689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eamoc/Videos/NGINX%20Web%20Server%20Deep%20Dive/02.NGINX%20as%20a%20Web%20Server/01.Basic%20Web%20Server%20Configuration/02.Simple%20Virtual%20Host%20and%20Serving%20Static%20Content.mp4" added="2023-05-05T17:23:04.622435Z" modified="2023-05-05T17:23:04.622440Z" visited="2023-05-05T17:23:04.622436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;Thunar %u&apos;" modified="2023-05-05T17:23:04.622437Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
