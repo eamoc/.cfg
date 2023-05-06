@@ -43,3 +43,4 @@ void-packages/
 .local/share/ranger/
 .pki/
 
+.config/qBittorrent/qBittorrent-data.conf
