@@ -90,7 +90,10 @@ alias cfgp='cfg push'
 alias cfgp!='cfg push --set-upstream origin main'
 alias cfgrsu='cfg remote set-url origin git@github.com:eamoc/.cfg'
 
-
+# Web server aliases
+alias £nc='sudo vim $HOME/.config/nginx/default.conf'
+alias +ng='sudo sv restart nginx'
+alias +ngt='sudo nginx -t'
 
 #Show scripts/ directory
 alias £s='nvim $HOME/.config/scripts/'

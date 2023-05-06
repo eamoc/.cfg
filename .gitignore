@@ -33,3 +33,13 @@ void-packages/
 .local/state/
 .local/share/recently-used.xbel
 .config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+.config/chromium/
+.config/qBittorrent/lockfile
+.config/qBittorrent/rss/storage.lock
+.config/vifm/
+.config/xfce4/help.rc
+.local/share/gvfs-metadata/home-1b950e16.log
+.local/share/lf/
+.local/share/ranger/
+.pki/
+
