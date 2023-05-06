@@ -50,7 +50,7 @@
 [greeter]
 #background=
 #user-background=
-#theme-name=
+theme-name=Arc-Dark
 #icon-theme-name=
 #font-name=
 #xft-antialias=
