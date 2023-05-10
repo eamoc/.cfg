@@ -271,6 +271,22 @@ dconfConfig()
 {
 	cp -v $HOME/.conf/DCONF_USER $HOME/dconf/user
 }
+CDashInstall
+#install CDash
+# Modify CDash directory to belong to the www-data group
+#git clone https://github.com/Kitware/CDash
+#git submodule init
+#build
+#configure
+#
+# Modify CDash directory to belong to the www-data group
+#chgrp -R www-data /path/to/CDash
+#
+# Make the CDash directory writeable by group.
+# sudo chmod -R g+rw /opt/CDash
+
+#
+
 
 #getEssentials
 #packageInstall

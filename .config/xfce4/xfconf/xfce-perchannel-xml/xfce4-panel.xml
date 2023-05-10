@@ -24,6 +24,7 @@
         <value type="int" value="23"/>
         <value type="int" value="24"/>
         <value type="int" value="28"/>
+        <value type="int" value="2"/>
         <value type="int" value="29"/>
         <value type="int" value="10"/>
         <value type="int" value="11"/>
@@ -163,7 +164,7 @@
     </property>
     <property name="plugin-5" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance11756;firefox.instance1276;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1398;firefox.instance1461;firefox.instance1568;firefox.instance1613;firefox.instance16384;firefox.instance1911;firefox.instance25676;firefox.instance2740;firefox.instance28221;firefox.instance28483;firefox.instance3085;firefox.instance3121;firefox.instance3345;firefox.instance3625;firefox.instance5948"/>
+      <property name="mpris-players" type="string" value="firefox.instance10704;firefox.instance11756;firefox.instance12647;firefox.instance1276;firefox.instance1277;firefox.instance1323;firefox.instance1324;firefox.instance1331;firefox.instance1360;firefox.instance1391;firefox.instance1398;firefox.instance1461;firefox.instance1568;firefox.instance1601;firefox.instance1613;firefox.instance16384;firefox.instance1911;firefox.instance25676;firefox.instance2740;firefox.instance28170;firefox.instance28221;firefox.instance28483;firefox.instance3085;firefox.instance3121;firefox.instance31222;firefox.instance3345;firefox.instance3625;firefox.instance5948;firefox.instance6090;firefox.instance6529"/>
     </property>
     <property name="plugin-6" type="string" value="netload"/>
     <property name="plugin-9" type="string" value="notification-plugin"/>
@@ -189,6 +190,11 @@
       <property name="hidden-legacy-items" type="array">
       </property>
       <property name="hidden-items" type="array">
+      </property>
+    </property>
+    <property name="plugin-2" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16836626051.desktop"/>
       </property>
     </property>
   </property>
