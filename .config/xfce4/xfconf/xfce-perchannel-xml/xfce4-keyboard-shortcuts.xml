@@ -60,6 +60,7 @@
       <property name="XF86Display" type="string" value="xfce4-display-settings --minimal"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;f" type="string" value="firefox"/>
+      <property name="&lt;Alt&gt;v" type="string" value="/usr/bin/vimb"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

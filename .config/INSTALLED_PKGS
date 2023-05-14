@@ -100,7 +100,6 @@ neofetch
 neovim
 nerd-fonts
 nethogs
-nginx
 ninja
 nodejs
 noice
@@ -113,8 +112,6 @@ pcre
 pcre-devel
 perl-ExtUtils-Helpers
 perl-rename
-php
-php-fpm
 pipewire
 poco
 poco-devel

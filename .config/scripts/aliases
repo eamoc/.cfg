@@ -92,22 +92,23 @@ alias cfgrsu='cfg remote set-url origin git@github.com:eamoc/.cfg'
 
 # Web server aliases
 alias £nc='sudo vim /etc/nginx/nginx.conf'
+alias @nc='cd /etc/nginx/conf.d/'
 alias +ws='sudo sv restart nginx php-fpm8.2'
 alias +nt='sudo nginx -t'
-alias %ng='cd /etc/nginx'
-alias %ws='cd /var/www/'
-alias %ngh='cd /usr/share/nginx/html/'
+alias @ng='cd /etc/nginx'
+alias @ws='cd /var/www/'
+alias @ngh='cd /usr/share/nginx/html/'
 
 #Show scripts/ directory
 alias £s='nvim $HOME/.config/scripts/'
-alias %s='cd $HOME/.config/scripts/'
+alias @s='cd $HOME/.config/scripts/'
 
 # Go to My files
-alias %mf='cd $MYFILES'
+alias @mf='cd $MYFILES'
 
 #Show the code directory
 alias £c='nvim $DEV'
-alias %c='cd $DEV'
+alias @c='cd $DEV'
 
 #Open postinstall.sh in vim
 alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
@@ -138,7 +139,7 @@ alias svst='sudo sv status /var/service/*'
 
 #openFrameworks. Specify a directory name 
 alias +of='cd $DEV && $HOME/.config/scripts/newOFProject.sh'
-alias %ofx='cd $HOME/openFrameworks/examples/'
+alias @ofx='cd $HOME/openFrameworks/examples/'
 
 #open the pdfviewer
 alias pdf='qpdfview'

@@ -295,11 +295,11 @@ CDashInstall
 #cronie_SvConfig
 #socklogConfig
 #gitGlobalIDSetup
-#golangInstall
-#installOpenFrameworks
 #configureIrishLocale
 #xfce4Install
 #dconfConfig
 #lightdm_SvConfig
 #sourceBashrc
 dbus_SvConfig
+#golangInstall
+#installOpenFrameworks
