@@ -11,3 +11,4 @@ text/plain=org.xfce.mousepad.desktop;
 application/x-theme=org.xfce.mousepad.desktop;
 text/markdown=firefox.desktop;
 inode/socket=org.xfce.mousepad.desktop;
+video/mp4=mpv.desktop;vlc.desktop;

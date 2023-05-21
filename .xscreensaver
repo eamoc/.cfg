@@ -1,5 +1,5 @@
 # XScreenSaver Preferences File
-# Written by xscreensaver-settings 6.06 for eamoc on Wed Apr 19 17:24:24 2023.
+# Written by xscreensaver-settings 6.06 for eamoc on Sun May 21 16:31:17 2023.
 # https://www.jwz.org/xscreensaver/
 
 timeout:	0:10:00
@@ -31,13 +31,13 @@ imageDirectory:
 mode:		random
 selected:	11
 
-textMode:	url
+textMode:	program
 textLiteral:	XScreenSaver
 textFile:	
 textProgram:	fortune
 textURL:	https://en.wikipedia.org/w/index.php?title=Special:NewPages&feed=rss
 dialogTheme:	default
-settingsGeom:	988,317 1744,715
+settingsGeom:	988,317 949,469
 
 programs:								      \
 -				maze --root				    \n\
@@ -49,14 +49,14 @@ programs:								      \
 -				hopalong --root				    \n\
 -				imsmap --root				    \n\
 -				noseguy --root				    \n\
--				pyro --root				    \n\
+				pyro --root --frequency 67 --scatter 400    \n\
 -				qix --root				    \n\
--				rocks --root				    \n\
+				rocks --root				    \n\
 -				rorschach --root			    \n\
 -				decayscreen --root			    \n\
 -				flame --root				    \n\
-				halo --root --delay 109836 --count 16	      \
-				  --colors 168				    \n\
+-				halo --root --delay 109836 --count 16	      \
+				  --colors 62 --animate			    \n\
 -				slidescreen --root			    \n\
 -				pedal --root				    \n\
 -				bouboule --root				    \n\
@@ -73,14 +73,15 @@ programs:								      \
 -				julia --root				    \n\
 -				kaleidescope --root			    \n\
 - GL: 				moebius --root				    \n\
-				moire --root --delay 24 --ncolors 49	      \
+-				moire --root --delay 24 --ncolors 49	      \
 				  --offset 123				    \n\
 - GL: 				morph3d --root				    \n\
 -				mountain --root				    \n\
 -				munch --root				    \n\
 -				penrose --root				    \n\
-  GL: 				pipes --root --cycles 100 --no-fisheye	    \n\
-				rdbomb --root --epoch 246082 --ncolors 78   \n\
+  GL: 				pipes --root --cycles 100 --size 3000	      \
+				  --no-fisheye --count 1		    \n\
+-				rdbomb --root --epoch 246082 --ncolors 78   \n\
 - GL: 				rubik --root				    \n\
 -				sierpinski --root			    \n\
 -				slip --root				    \n\
@@ -151,7 +152,7 @@ programs:								      \
 -				vermiculate --root			    \n\
 -				whirlwindwarp --root			    \n\
 -				zoom --root				    \n\
--				anemone --root				    \n\
+				anemone --root				    \n\
 -				apollonian --root			    \n\
 - GL: 				boxed --root				    \n\
 - GL: 				cubenetic --root			    \n\
@@ -196,7 +197,7 @@ programs:								      \
 -				popsquares --root			    \n\
 - GL: 				surfaces --root				    \n\
 -				xanalogtv --root			    \n\
-				abstractile --root			    \n\
+-				abstractile --root --speed 0 --tile tiled   \n\
 -				anemotaxis --root			    \n\
 - GL: 				antinspect --root			    \n\
 -				fireworkx --root			    \n\
@@ -213,7 +214,7 @@ programs:								      \
 -				wormhole --root				    \n\
 - GL: 				antmaze --root				    \n\
 - GL: 				boing --root				    \n\
-				boxfit --root				    \n\
+				boxfit --root --mode squares --grab	    \n\
 - GL: 				carousel --root				    \n\
 -				celtic --root				    \n\
 - GL: 				crackberg --root			    \n\
@@ -226,7 +227,8 @@ programs:								      \
 - GL: 				glschool --root				    \n\
 - GL: 				topblock --root				    \n\
 - GL: 				cubicgrid --root			    \n\
-				cwaves --root				    \n\
+				cwaves --root --delay 69355 --waves 25	      \
+				  --colors 316				    \n\
 - GL: 				gears --root				    \n\
 - GL: 				glcells --root				    \n\
   GL: 				lockward --root				    \n\

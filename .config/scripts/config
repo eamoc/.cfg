@@ -14,7 +14,7 @@ esac
 
 #Set PATH so it includes user's private bin if it exists
 if [ -d $HOME/.local/bin/ ]; then
-	PATH=$HOME/.local/bin:$PATH
+	export PATH=$HOME/.local/bin:$PATH
 fi
 
 #Add golang to the path
@@ -70,12 +70,12 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
-#if [ "$color_prompt" = yes ]; then
-#     PS1="${debian_chroot:+($debian_chroot)}\033[01;32m\]\w\033[01;34m\]\033[00;97m\]\n➜ "
-#else
-#     PS1='${debian_chroot:+($debian_chroot)}\n➜ '
-#fi
-#unset color_prompt force_color_prompt
+if [ "$color_prompt" = yes ]; then
+	PS1='$(slcp $COLUMNS $?)'
+else
+	PS1='${debian_chroot:+($debian_chroot)}\n➜ '
+fi
+unset color_prompt force_color_prompt
 
 # If this is an xterm set the title to user@host:dir
 #case "$TERM" in
@@ -92,9 +92,6 @@ export PROMPT_COMMAND="history -a; history -n"
 # history -n tells bash to read lines that is not read from history file to current history list of session.
 # PROMPT_COMMAND: contents of this variable is run as regular command before bash show prompt. 
 # So every time after you execute a command, history -a; history -n is executed, and your bash history is synced.
-
-#Start the starship prompt
-eval "$(starship init bash)"
 
 
 # enable color support of ls and also add handy aliases
@@ -130,4 +127,4 @@ fi
 #fi
 
 #Start neofetch with each instance of Terminal
-#neofetch
+neofetch

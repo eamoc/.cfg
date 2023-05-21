@@ -11,3 +11,21 @@ grep -R 'Eamonn Costello' ./ 						"Recursively look through the current directo
 
 
 du -shc									"get disk usage for the current directory, -s, summary, -h human readable, -c grand total
+
+
+Set up phpmyadmin
+initialize the mysql user see:
+https://dev.mysql.com/doc/refman/8.0/en/resetting-permissions.html
+
+cdash config
+MariaDB [(none)]> create database cdash;
+Query OK, 1 row affected (0.000 sec)
+
+MariaDB [(none)]> create user 'cdash'@'localhost' identified by 'cdash';
+Query OK, 0 rows affected (0.081 sec)
+
+MariaDB [(none)]> grant all privileges on cdash.* to 'cdash'@'localhost' with grant option;
+Query OK, 0 rows affected (0.049 sec)
+
+MariaDB [(none)]> 
+

@@ -45,4 +45,6 @@
   </property>
   <property name="always-center" type="bool" value="true"/>
   <property name="enable-service" type="bool" value="false"/>
+  <property name="item-icon-size" type="uint" value="2"/>
+  <property name="category-icon-size" type="uint" value="2"/>
 </channel>

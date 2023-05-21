@@ -91,7 +91,7 @@ alias cfgp!='cfg push --set-upstream origin main'
 alias cfgrsu='cfg remote set-url origin git@github.com:eamoc/.cfg'
 
 # Web server aliases
-alias £nc='sudo vim /etc/nginx/nginx.conf'
+alias Enc='sudo vim /etc/nginx/nginx.conf'
 alias @nc='cd /etc/nginx/conf.d/'
 alias +ws='sudo sv restart nginx php-fpm8.2'
 alias +nt='sudo nginx -t'
@@ -99,40 +99,40 @@ alias @ng='cd /etc/nginx'
 alias @ws='cd /var/www/'
 alias @ngh='cd /usr/share/nginx/html/'
 
+# Log aliases
+alias @l='cd /var/log'
+
 #Show scripts/ directory
-alias £s='nvim $HOME/.config/scripts/'
+alias Es='nvim $HOME/.config/scripts/'
 alias @s='cd $HOME/.config/scripts/'
 
 # Go to My files
 alias @mf='cd $MYFILES'
 
 #Show the code directory
-alias £c='nvim $DEV'
+alias Ec='nvim $DEV'
 alias @c='cd $DEV'
 
 #Open postinstall.sh in vim
-alias £pi='cd ~/.config/scripts && nvim postinstall.sh'
+alias Epi='cd ~/.config/scripts && nvim postinstall.sh'
 
 #Run postinstall.sh
 alias +pi='cd $HOME/.config/scripts && ./postinstall.sh'
 
 #edit this file
-alias £al='nvim ~/.config/scripts/aliases'
+alias Eal='nvim ~/.config/scripts/aliases'
 
 #edit the 'bash env' file
-alias £en='nvim ~/.config/scripts/env'
+alias Een='nvim ~/.config/scripts/env'
 
 #edit the 'bash config' file
-alias £cf='nvim ~/.config/scripts/config'
-
-#edit starship config
-alias £ss='nvim ~/.config/starship.toml'
+alias Ecf='nvim ~/.config/scripts/config'
 
 #edit the xinitrc file
-alias £xi='nvim $HOME/.xinitrc'
+alias Exi='nvim $HOME/.xinitrc'
 
 #edit the Tips n Tricks file
-alias £tt='nvim $HOME/.config/TIPS_N_TRICKS'
+alias Ett='nvim $HOME/.config/TIPS_N_TRICKS'
 
 #check status of all services
 alias svst='sudo sv status /var/service/*' 
@@ -146,11 +146,11 @@ alias pdf='qpdfview'
 
 #vim shortcuts
 alias v='nvim'
-alias £ev='v $HOME/.config/nvim/init.vim'
-alias £ep='v $HOME/.config/nvim/plugin-config.vim'
+alias Eev='v $HOME/.config/nvim/init.vim'
+alias Eep='v $HOME/.config/nvim/plugin-config.vim'
 
 #tmux shortcuts
-alias £et='v $HOME/.config/tmux/tmux.conf'
+alias Eet='v $HOME/.config/tmux/tmux.conf'
 
 #ranger
 alias r='ranger'
