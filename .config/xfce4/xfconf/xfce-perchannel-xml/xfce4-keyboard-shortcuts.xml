@@ -57,7 +57,7 @@
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Alt&gt;v" type="string" value="/usr/bin/vimb"/>
       <property name="&lt;Super&gt;t" type="string" value="exo-open --launch TerminalEmulator"/>
-      <property name="&lt;Super&gt;f" type="string" value="exo-open --launch WebBrowser"/>
+      <property name="&lt;Super&gt;w" type="string" value="exo-open --launch WebBrowser"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
