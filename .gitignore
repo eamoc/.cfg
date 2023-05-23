@@ -89,3 +89,4 @@ Dropbox/
 Pictures/
 
 qmk_firmware/
+.local/share/gvfs-metadata/*
